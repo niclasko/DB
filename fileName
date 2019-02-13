@@ -1,1016 +1,0 @@
-"SERIES_NAME","MODEL_NAME","PRODUCT_CODE","TECHNICAL_SPECIFICATIONS","FEATURE_REQ"
-"ISR4000","Cisco 4431","ISR4431/K9","Aggregate Throughput","500 Mbps to 1 Gbps"
-"ISR4000","Cisco 4431","ISR4431/K9","Total onboard WAN or LAN 10/100/1000 ports","4"
-"ISR4000","Cisco 4431","ISR4431/K9","RJ-45-based ports","4"
-"ISR4000","Cisco 4431","ISR4431/K9","SFP-based ports","4"
-"ISR4000","Cisco 4431","ISR4431/K9","Enhanced service-module slots","0"
-"ISR4000","Cisco 4431","ISR4431/K9","Doublewide service-module slots","0"
-"ISR4000","Cisco 4431","ISR4431/K9","NIM slots","3"
-"ISR4000","Cisco 4431","ISR4431/K9","OIR (all I/O modules)","Yes"
-"ISR4000","Cisco 4431","ISR4431/K9","Onboard ISC slot","1"
-"ISR4000","Cisco 4431","ISR4431/K9","Default memory double-data-rate 3 (DDR3) error-correction-code (ECC) DRAM (Combined control/services/data planes)","NA"
-"ISR4000","Cisco 4431","ISR4431/K9","Maximum memory DDR3 ECC DRAM (Combined control/services/data planes)","NA"
-"ISR4000","Cisco 4431","ISR4431/K9","Default memory DDR3 ECC DRAM (data plane)","2 GB"
-"ISR4000","Cisco 4431","ISR4431/K9","Maximum memory DDR3 ECC DRAM (data plane)","2 GB"
-"ISR4000","Cisco 4431","ISR4431/K9","Default memory DDR3 ECC DRAM (control/services plane)","4 GB"
-"ISR4000","Cisco 4431","ISR4431/K9","Maximum memory DDR3 ECC DRAM (control/services plane)","16 GB"
-"ISR4000","Cisco 4431","ISR4431/K9","Default flash memory","8 GB"
-"ISR4000","Cisco 4431","ISR4431/K9","Maximum flash memory","32 GB"
-"ISR4000","Cisco 4431","ISR4431/K9","External USB 2.0 slots (type A)","2"
-"ISR4000","Cisco 4431","ISR4431/K9","USB console port -type B mini (up to 115.2 kbps)","1"
-"ISR4000","Cisco 4431","ISR4431/K9","Serial console port - RJ45 (up to 115.2 kbps)","1"
-"ISR4000","Cisco 4431","ISR4431/K9","Serial auxiliary port - RJ45 (up to 115.2 kbps)","1"
-"ISR4000","Cisco 4431","ISR4431/K9","Power-supply options","Internal: AC, DC, and PoE"
-"ISR4000","Cisco 4431","ISR4431/K9","Redundant power supply","Internal: AC, DC, and PoE"
-"ISR4000","Cisco 4431","ISR4431/K9","Power Specifications","NA"
-"ISR4000","Cisco 4431","ISR4431/K9","AC input voltage","100 to 240 VAC autoranging"
-"ISR4000","Cisco 4431","ISR4431/K9","AC input frequency","47 to 63 Hz"
-"ISR4000","Cisco 4431","ISR4431/K9","AC input current range, AC power supply (maximum)","3 to 1.3A"
-"ISR4000","Cisco 4431","ISR4431/K9","AC input surge current","60 A peak and less than 5 Arms per half cycle"
-"ISR4000","Cisco 4431","ISR4431/K9","Typical power (no modules) (watts)","65"
-"ISR4000","Cisco 4431","ISR4431/K9","Maximum power with AC power supply (watts)","250 (no PoE)"
-"ISR4000","Cisco 4431","ISR4431/K9","Maximum power with PoE power supply (platform only) (watts)","500 with PoE redundant 1000 with PoE boost no redundancy"
-"ISR4000","Cisco 4431","ISR4431/K9","Maximum endpoint PoE power available from PoE power supply (watts)","250 W with optional redundancy"
-"ISR4000","Cisco 4431","ISR4431/K9","Maximum endpoint PoE power capacity with PoE boost (watts)","500 W no redundancy"
-"ISR4000","Cisco 4431","ISR4431/K9","Sizes and Weights","NA"
-"ISR4000","Cisco 4431","ISR4431/K9","(H x W x D)","1.73 x 17.25 x 19.97 in (43.9 x 438.15 x 507.2 mm)"
-"ISR4000","Cisco 4431","ISR4431/K9","External Power Supply Dimensions (H x W x D)","N/A"
-"ISR4000","Cisco 4431","ISR4431/K9","(H x W x D)","7.88 x 22.25 x 28.75 in (200.2 x 565.1 x 730.25 mm)"
-"ISR4000","Cisco 4431","ISR4431/K9","Rack height","1 rack units (1RU)"
-"ISR4000","Cisco 4431","ISR4431/K9","Rack-mount 19in. (48.3 cm) EIA","Included"
-"ISR4000","Cisco 4431","ISR4431/K9","Rack-mount 23in. (58.4 cm) EIA","Optional"
-"ISR4000","Cisco 4431","ISR4431/K9","Wall-mount","Yes"
-"ISR4000","Cisco 4431","ISR4431/K9","Weight with 1, 450-WAC power supply (no modules)","N/A"
-"ISR4000","Cisco 4431","ISR4431/K9","Weight with 1 1,000-WAC power supply+ 1 PoE power module (no other modules)","N/A"
-"ISR4000","Cisco 4431","ISR4431/K9","Weight with AC PS (no modules)","18.5 lb (8.4 kg)"
-"ISR4000","Cisco 4431","ISR4431/K9","Weight with AC PS with POE (no modules)","18.6 lb (8.4 kg)"
-"ISR4000","Cisco 4431","ISR4431/K9","Typical weight (fully loaded with modules)","22.4 lb (10.2 kg)"
-"ISR4000","Cisco 4431","ISR4431/K9","Packaging Weight","5.9 lb (2.7 kg)"
-"ISR4000","Cisco 4431","ISR4431/K9","Airflow","I/O side to bezel side"
-"ISR4000","Cisco 4431","ISR4431/K9","MTBF (Hours)","512970"
-"ISR4000","Cisco 4431","ISR4431/K9","Environmental Specifications","NA"
-"ISR4000","Cisco 4431","ISR4431/K9","Operating Conditions","NA"
-"ISR4000","Cisco 4431","ISR4431/K9","Temperature","32º to 104ºF (0º to 40ºC)"
-"ISR4000","Cisco 4431","ISR4431/K9","Altitude","0 – 6,560 ft."
-"ISR4000","Cisco 4431","ISR4431/K9","(China)","(0 – 2,000 m)"
-"ISR4000","Cisco 4431","ISR4431/K9","Altitude","0 – 10,000 ft."
-"ISR4000","Cisco 4431","ISR4431/K9","(Rest of the world)","(0 – 3,050 m)"
-"ISR4000","Cisco 4431","ISR4431/K9","Relative humidity","5% to 85%"
-"ISR4000","Cisco 4431","ISR4431/K9","Short-term humidity","5% to 90%, not to exceed 0.024 kg water/kg of dry air"
-"ISR4000","Cisco 4431","ISR4431/K9","Acoustics: Sound pressure (Typical/maximum)","54.3/79.1 dBA"
-"ISR4000","Cisco 4431","ISR4431/K9","Acoustics: Sound power (Typical/maximum)","57.2/80.8 dBA"
-"ISR4000","Cisco 4431","ISR4431/K9","Nonoperating Conditions","NA"
-"ISR4000","Cisco 4431","ISR4431/K9","Temperature","40º to 158ºF (-40º to 70ºC)"
-"ISR4000","Cisco 4431","ISR4431/K9","Relative humidity","5% to 95%"
-"ISR4000","Cisco 4431","ISR4431/K9","Altitude","15,584 ft (4750m)"
-"ISR4000","Cisco 4431","ISR4431/K9","Regulatory and Compliance","NA"
-"ISR4000","Cisco 4431","ISR4431/K9","Safety","UL 60950-1 CAN/CSA C22.2 No. 60950-1 EN 60950-1 AS/NZS 60950-1 IEC 60950-1 GB-4943"
-"ISR4000","Cisco 4431","ISR4431/K9","EMC","47 CFR, Part 15 ICES-003 Class A EN55022 Class A CISPR22 Class A AS/NZS 3548 Class A VCCI V-3 CNS 13438 EN 300-386 EN 61000 (Immunity) EN 55024, CISPR 24 EN50082-1 KN22, KN24"
-"ISR4000","Cisco 4431","ISR4431/K9","Telecom","TIA-968-B CS-03 ANSI T1.101 ITU-T G.823, G.824 IEEE 802.3 RTTE Directive Homologation requirements vary by country and interface type. For specific country information, refer to the online approvals data base at: http://www.ciscofax.com. "
-"ISR4000","Cisco 4451","ISR4451-X/K9","Aggregate Throughput","1 Gbps to 2 Gbps"
-"ISR4000","Cisco 4451","ISR4451-X/K9","Total onboard WAN or LAN 10/100/1000 ports","4"
-"ISR4000","Cisco 4451","ISR4451-X/K9","RJ-45-based ports","4"
-"ISR4000","Cisco 4451","ISR4451-X/K9","SFP-based ports","4"
-"ISR4000","Cisco 4451","ISR4451-X/K9","Enhanced service-module slots","2"
-"ISR4000","Cisco 4451","ISR4451-X/K9","Doublewide service-module slots","1 (assumes no singlewide SM-X modules installed)"
-"ISR4000","Cisco 4451","ISR4451-X/K9","NIM slots","3"
-"ISR4000","Cisco 4451","ISR4451-X/K9","OIR (all I/O modules)","Yes"
-"ISR4000","Cisco 4451","ISR4451-X/K9","Onboard ISC slot","1"
-"ISR4000","Cisco 4451","ISR4451-X/K9","Default memory double-data-rate 3 (DDR3) error-correction-code (ECC) DRAM (Combined control/services/data planes)","NA"
-"ISR4000","Cisco 4451","ISR4451-X/K9","Maximum memory DDR3 ECC DRAM (Combined control/services/data planes)","NA"
-"ISR4000","Cisco 4451","ISR4451-X/K9","Default memory DDR3 ECC DRAM (data plane)","2 GB"
-"ISR4000","Cisco 4451","ISR4451-X/K9","Maximum memory DDR3 ECC DRAM (data plane)","2 GB"
-"ISR4000","Cisco 4451","ISR4451-X/K9","Default memory DDR3 ECC DRAM (control/services plane)","4 GB"
-"ISR4000","Cisco 4451","ISR4451-X/K9","Maximum memory DDR3 ECC DRAM (control/services plane)","16 GB"
-"ISR4000","Cisco 4451","ISR4451-X/K9","Default flash memory","8 GB"
-"ISR4000","Cisco 4451","ISR4451-X/K9","Maximum flash memory","32 GB"
-"ISR4000","Cisco 4451","ISR4451-X/K9","External USB 2.0 slots (type A)","2"
-"ISR4000","Cisco 4451","ISR4451-X/K9","USB console port -type B mini (up to 115.2 kbps)","1"
-"ISR4000","Cisco 4451","ISR4451-X/K9","Serial console port - RJ45 (up to 115.2 kbps)","1"
-"ISR4000","Cisco 4451","ISR4451-X/K9","Serial auxiliary port - RJ45 (up to 115.2 kbps)","1"
-"ISR4000","Cisco 4451","ISR4451-X/K9","Power-supply options","Internal: AC, DC (roadmap) and PoE"
-"ISR4000","Cisco 4451","ISR4451-X/K9","Redundant power supply","Internal: AC, DC (roadmap) and PoE"
-"ISR4000","Cisco 4451","ISR4451-X/K9","Power Specifications","NA"
-"ISR4000","Cisco 4451","ISR4451-X/K9","AC input voltage","100 to 240 VAC autoranging"
-"ISR4000","Cisco 4451","ISR4451-X/K9","AC input frequency","47 to 63 Hz"
-"ISR4000","Cisco 4451","ISR4451-X/K9","AC input current range, AC power supply (maximum)","7.1 to 3.0A"
-"ISR4000","Cisco 4451","ISR4451-X/K9","AC input surge current","<50 A"
-"ISR4000","Cisco 4451","ISR4451-X/K9","Typical power (no modules) (watts)","158"
-"ISR4000","Cisco 4451","ISR4451-X/K9","Maximum power with AC power supply (watts)","450 (no PoE)"
-"ISR4000","Cisco 4451","ISR4451-X/K9","Maximum power with PoE power supply (platform only) (watts)","1000 with PoE redundant 1450 with PoE boost no redundancy"
-"ISR4000","Cisco 4451","ISR4451-X/K9","Maximum endpoint PoE power available from PoE power supply (watts)","500 W with optional redundancy"
-"ISR4000","Cisco 4451","ISR4451-X/K9","Maximum endpoint PoE power capacity with PoE boost (watts)","950 W no redundancy"
-"ISR4000","Cisco 4451","ISR4451-X/K9","Sizes and Weights","NA"
-"ISR4000","Cisco 4451","ISR4451-X/K9","(H x W x D)","3.5 x 17.25 x 18.5 in (88.9 x 438.15 x 469.9 mm)"
-"ISR4000","Cisco 4451","ISR4451-X/K9","External Power Supply Dimensions (H x W x D)","N/A"
-"ISR4000","Cisco 4451","ISR4451-X/K9","(H x W x D)","9.75 x 22.25 x 26 in (24.76 x 56.51 x 66.04 mm)"
-"ISR4000","Cisco 4451","ISR4451-X/K9","Rack height","2 rack units (2RU)"
-"ISR4000","Cisco 4451","ISR4451-X/K9","Rack-mount 19in. (48.3 cm) EIA","Included"
-"ISR4000","Cisco 4451","ISR4451-X/K9","Rack-mount 23in. (58.4 cm) EIA","Optional"
-"ISR4000","Cisco 4451","ISR4451-X/K9","Wall-mount","No"
-"ISR4000","Cisco 4451","ISR4451-X/K9","Weight with 1, 450-WAC power supply (no modules)","28.8 lb (13.1 kg)"
-"ISR4000","Cisco 4451","ISR4451-X/K9","Weight with 1 1,000-WAC power supply+ 1 PoE power module (no other modules)","30.6 lb (13.9 kg)"
-"ISR4000","Cisco 4451","ISR4451-X/K9","Weight with AC PS (no modules)","N/A"
-"ISR4000","Cisco 4451","ISR4451-X/K9","Weight with AC PS with POE (no modules)","N/A"
-"ISR4000","Cisco 4451","ISR4451-X/K9","Typical weight (fully loaded with modules)","42.7 lb (19.4 kg)"
-"ISR4000","Cisco 4451","ISR4451-X/K9","Packaging Weight","6.4 lb (2.9 kg)"
-"ISR4000","Cisco 4451","ISR4451-X/K9","Airflow","I/O side to bezel side"
-"ISR4000","Cisco 4451","ISR4451-X/K9","MTBF (Hours)","480770"
-"ISR4000","Cisco 4451","ISR4451-X/K9","Environmental Specifications","NA"
-"ISR4000","Cisco 4451","ISR4451-X/K9","Operating Conditions","NA"
-"ISR4000","Cisco 4451","ISR4451-X/K9","Temperature","32º to 104ºF (0º to 40ºC)"
-"ISR4000","Cisco 4451","ISR4451-X/K9","Altitude","0 – 6,560 ft."
-"ISR4000","Cisco 4451","ISR4451-X/K9","(China)","(0 – 2,000 m)"
-"ISR4000","Cisco 4451","ISR4451-X/K9","Altitude","0 – 10,000 ft."
-"ISR4000","Cisco 4451","ISR4451-X/K9","(Rest of the world)","(0 – 3,050 m)"
-"ISR4000","Cisco 4451","ISR4451-X/K9","Relative humidity","5% to 85%"
-"ISR4000","Cisco 4451","ISR4451-X/K9","Short-term humidity","5% to 90%, not to exceed 0.024 kg water/kg of dry air"
-"ISR4000","Cisco 4451","ISR4451-X/K9","Acoustics: Sound pressure (Typical/maximum)","50.6/73.1 dBA"
-"ISR4000","Cisco 4451","ISR4451-X/K9","Acoustics: Sound power (Typical/maximum)","58.2/78.8 dBA"
-"ISR4000","Cisco 4451","ISR4451-X/K9","Nonoperating Conditions","NA"
-"ISR4000","Cisco 4451","ISR4451-X/K9","Temperature","40º to 158ºF (-40º to 70ºC)"
-"ISR4000","Cisco 4451","ISR4451-X/K9","Relative humidity","5% to 95%"
-"ISR4000","Cisco 4451","ISR4451-X/K9","Altitude","15,584 ft (4750m)"
-"ISR4000","Cisco 4451","ISR4451-X/K9","Regulatory and Compliance","NA"
-"ISR4000","Cisco 4451","ISR4451-X/K9","Safety","UL 60950-1 CAN/CSA C22.2 No. 60950-1 EN 60950-1 AS/NZS 60950-1 IEC 60950-1  "
-"ISR4000","Cisco 4451","ISR4451-X/K9","EMC","47 CFR, Part 15 ICES-003 Class A EN55022 Class A CISPR22 Class A AS/NZS 3548 Class A VCCI V-3 CNS 13438 EN 300-386 EN 61000 (Immunity) EN 55024, CISPR 24 EN50082-1 SD/EMI KN22, KN24"
-"ISR4000","Cisco 4451","ISR4451-X/K9","Telecom","T1 IC CS-03:2004 TIA-968-B:2009 HKTA 2028:2010 HKTA 2017:2010 HKTA 2015: 2006 G.703:2001 ID0002:2007 IS6100:2004 DSPR Gray Book:2000 DSPR Technical Condition: 2004 E1 AS/ACIF S016: 2001 AS/ACIF S038: 2001 G.703:2001 TBR 4:1995 TBR 12:1993 TBR 13:1996 RRA 2009-38 (RRL 2005-96) IDA TS DLCN:2011 IDA TS ISDN PRA:2005 IS6100: 2004 PTC 220:2008 Ethernet IEEE 802.3 ANSA X3.263"
-"ISR4000","Cisco 4321","ISR4321/K9","Aggregate Throughput","50 Mbps to 100 Mbps"
-"ISR4000","Cisco 4321","ISR4321/K9","Total onboard WAN or LAN 10/100/1000 ports","2"
-"ISR4000","Cisco 4321","ISR4321/K9","RJ-45-based ports","2"
-"ISR4000","Cisco 4321","ISR4321/K9","SFP-based ports","1"
-"ISR4000","Cisco 4321","ISR4321/K9","Enhanced service-module slots","0"
-"ISR4000","Cisco 4321","ISR4321/K9","Doublewide service-module slots","0"
-"ISR4000","Cisco 4321","ISR4321/K9","NIM slots","2"
-"ISR4000","Cisco 4321","ISR4321/K9","OIR (all I/O modules)","Yes"
-"ISR4000","Cisco 4321","ISR4321/K9","Onboard ISC slot","1"
-"ISR4000","Cisco 4321","ISR4321/K9","Default memory double-data-rate 3 (DDR3) error-correction-code (ECC) DRAM (Combined control/services/data planes)","4 GB"
-"ISR4000","Cisco 4321","ISR4321/K9","Maximum memory DDR3 ECC DRAM (Combined control/services/data planes)","8 GB"
-"ISR4000","Cisco 4321","ISR4321/K9","Default memory DDR3 ECC DRAM (data plane)","NA"
-"ISR4000","Cisco 4321","ISR4321/K9","Maximum memory DDR3 ECC DRAM (data plane)","NA"
-"ISR4000","Cisco 4321","ISR4321/K9","Default memory DDR3 ECC DRAM (control/services plane)","NA"
-"ISR4000","Cisco 4321","ISR4321/K9","Maximum memory DDR3 ECC DRAM (control/services plane)","NA"
-"ISR4000","Cisco 4321","ISR4321/K9","Default flash memory","4 GB"
-"ISR4000","Cisco 4321","ISR4321/K9","Maximum flash memory","8 GB"
-"ISR4000","Cisco 4321","ISR4321/K9","External USB 2.0 slots (type A)","1"
-"ISR4000","Cisco 4321","ISR4321/K9","USB console port -type B mini (up to 115.2 kbps)","1"
-"ISR4000","Cisco 4321","ISR4321/K9","Serial console port - RJ45 (up to 115.2 kbps)","1"
-"ISR4000","Cisco 4321","ISR4321/K9","Serial auxiliary port - RJ45 (up to 115.2 kbps)","1"
-"ISR4000","Cisco 4321","ISR4321/K9","Power-supply options","External: AC and PoE"
-"ISR4000","Cisco 4321","ISR4321/K9","Redundant power supply","N/A"
-"ISR4000","Cisco 4321","ISR4321/K9","Power Specifications","NA"
-"ISR4000","Cisco 4321","ISR4321/K9","AC input voltage","100 to 240 VAC autoranging"
-"ISR4000","Cisco 4321","ISR4321/K9","AC input frequency","47 to 63 Hz"
-"ISR4000","Cisco 4321","ISR4321/K9","AC input current range, AC power supply (maximum)","1.5 to 0.6A"
-"ISR4000","Cisco 4321","ISR4321/K9","AC input surge current","90 A peak and less than 3 Arms per half cycle"
-"ISR4000","Cisco 4321","ISR4321/K9","Typical power (no modules) (watts)","36"
-"ISR4000","Cisco 4321","ISR4321/K9","Maximum power with AC power supply (watts)","125"
-"ISR4000","Cisco 4321","ISR4321/K9","Maximum power with PoE power supply (platform only) (watts)","260"
-"ISR4000","Cisco 4321","ISR4321/K9","Maximum endpoint PoE power available from PoE power supply (watts)","120"
-"ISR4000","Cisco 4321","ISR4321/K9","Maximum endpoint PoE power capacity with PoE boost (watts)","N/A"
-"ISR4000","Cisco 4321","ISR4321/K9","Sizes and Weights","NA"
-"ISR4000","Cisco 4321","ISR4321/K9","(H x W x D)","1.75 x 14.55 x 11.60 in (44.55 x 369.57 x 294.64 mm)"
-"ISR4000","Cisco 4321","ISR4321/K9","External Power Supply Dimensions (H x W x D)","2.95 x 1.18 x 6.10 in (75 x 30 x 155 mm)"
-"ISR4000","Cisco 4321","ISR4321/K9","(H x W x D)","7.0 x 21.5 x 16.125 in (177.8 x 546.1 x 409.6 mm)"
-"ISR4000","Cisco 4321","ISR4321/K9","Rack height","1 rack unit (1RU)"
-"ISR4000","Cisco 4321","ISR4321/K9","Rack-mount 19in. (48.3 cm) EIA","Included"
-"ISR4000","Cisco 4321","ISR4321/K9","Rack-mount 23in. (58.4 cm) EIA","N/A"
-"ISR4000","Cisco 4321","ISR4321/K9","Wall-mount","Mounting holes under chassis"
-"ISR4000","Cisco 4321","ISR4321/K9","Weight with 1, 450-WAC power supply (no modules)","N/A"
-"ISR4000","Cisco 4321","ISR4321/K9","Weight with 1 1,000-WAC power supply+ 1 PoE power module (no other modules)","N/A"
-"ISR4000","Cisco 4321","ISR4321/K9","Weight with AC PS (no modules)","7.7 lb (3.5 kg) + 1.2 lb (0.66 kg) external PS"
-"ISR4000","Cisco 4321","ISR4321/K9","Weight with AC PS with POE (no modules)","N/A"
-"ISR4000","Cisco 4321","ISR4321/K9","Typical weight (fully loaded with modules)","9.14 lb (4.2 kg) + 1.2 lb (0.66 kg) external PS"
-"ISR4000","Cisco 4321","ISR4321/K9","Packaging Weight","2.2 lb (1 kg)"
-"ISR4000","Cisco 4321","ISR4321/K9","Airflow","Right I/O side to Left I/O side"
-"ISR4000","Cisco 4321","ISR4321/K9","MTBF (Hours)","593270"
-"ISR4000","Cisco 4321","ISR4321/K9","Environmental Specifications","NA"
-"ISR4000","Cisco 4321","ISR4321/K9","Operating Conditions","NA"
-"ISR4000","Cisco 4321","ISR4321/K9","Temperature","32º to 104ºF (0º to 40ºC)"
-"ISR4000","Cisco 4321","ISR4321/K9","Altitude","0 – 6,560 ft."
-"ISR4000","Cisco 4321","ISR4321/K9","(China)","(0 – 2,000 m)"
-"ISR4000","Cisco 4321","ISR4321/K9","Altitude","0 – 10,000 ft."
-"ISR4000","Cisco 4321","ISR4321/K9","(Rest of the world)","(0 – 3,050 m)"
-"ISR4000","Cisco 4321","ISR4321/K9","Relative humidity","5% to 85%"
-"ISR4000","Cisco 4321","ISR4321/K9","Short-term humidity","5% to 90%, not to exceed 0.024 kg water/kg of dry air"
-"ISR4000","Cisco 4321","ISR4321/K9","Acoustics: Sound pressure (Typical/maximum)","24.2/51.9 dBA"
-"ISR4000","Cisco 4321","ISR4321/K9","Acoustics: Sound power (Typical/maximum)","31.9/59.9 dBA"
-"ISR4000","Cisco 4321","ISR4321/K9","Nonoperating Conditions","NA"
-"ISR4000","Cisco 4321","ISR4321/K9","Temperature","40º to 158ºF (-40º to 70ºC)"
-"ISR4000","Cisco 4321","ISR4321/K9","Relative humidity","5% to 95%"
-"ISR4000","Cisco 4321","ISR4321/K9","Altitude","15,584 ft (4750m)"
-"ISR4000","Cisco 4321","ISR4321/K9","Regulatory and Compliance","NA"
-"ISR4000","Cisco 4321","ISR4321/K9","Safety","UL 60950-1 CAN/CSA C22.2 No. 60950-1 EN 60950-1 AS/NZS 60950-1 IEC 60950-1 GB-4943"
-"ISR4000","Cisco 4321","ISR4321/K9","EMC","ICES-003 Class A EN55022 Class A CISPR22 Class A AS/NZS 3548 Class A VCCI V-3 CNS 13438 EN 300-386 EN 61000 (Immunity) EN 55024, CISPR 24 EN50082-1 KN22, KN24 "
-"ISR4000","Cisco 4321","ISR4321/K9","Telecom","TIA-968-B CS-03 ANSI T1.101 ITU-T G.823, G.824 IEEE 802.3 RTTE Directive Homologation requirements vary by country and interface type. For specific country information, refer to the online approvals data base at: http://www.ciscofax.com. "
-"N9300","Cisco Nexus 93120TX","N9K-C93120TX","Ports","96 fixed 1/10GBASE-T and 6 QSFP+ ports"
-"N9300","Cisco Nexus 93120TX","N9K-C93120TX","Supported speeds","100 Megabit Ethernet and 1/10 Gigabit Ethernet speeds"
-"N9300","Cisco Nexus 93120TX","N9K-C93120TX","40 Gigabit Ethernet uplink port","NA"
-"N9300","Cisco Nexus 93120TX","N9K-C93120TX","40 Gigabit Ethernet uplink port","""6 fixed QSFP+ ports Advanced QSFP+ optics enable connectivity using existing 10 Gigabit Ethernet fiber."""
-"N9300","Cisco Nexus 93120TX","N9K-C93120TX","100 Gigabit Ethernet uplink ports","NA"
-"N9300","Cisco Nexus 93120TX","N9K-C93120TX","100 Gigabit Ethernet uplink ports","NA"
-"N9300","Cisco Nexus 93120TX","N9K-C93120TX","Power supplies (up to 2)","""1200W AC, 930W DC, or 1200W HVAC/HVDC"""
-"N9300","Cisco Nexus 93120TX","N9K-C93120TX","Typical power* (AC & DC)","542W"
-"N9300","Cisco Nexus 93120TX","N9K-C93120TX","Maximum power* (AC & DC)","948W"
-"N9300","Cisco Nexus 93120TX","N9K-C93120TX","Input voltage (AC)","100 to 240V"
-"N9300","Cisco Nexus 93120TX","N9K-C93120TX","Input voltage (HVAC)","200 to 277V"
-"N9300","Cisco Nexus 93120TX","N9K-C93120TX","Input voltage (DC)","-40V to -72V DC (min-max)   -48V to -60V DC (nominal)"""
-"N9300","Cisco Nexus 93120TX","N9K-C93120TX","Input voltage (HVDC)","–240 to –380V"
-"N9300","Cisco Nexus 93120TX","N9K-C93120TX","Frequency (AC)","50 to 60 Hz"
-"N9300","Cisco Nexus 93120TX","N9K-C93120TX","Fans","2"
-"N9300","Cisco Nexus 93120TX","N9K-C93120TX","Physical (H x W x D)","3.5 x 17.5 x 22.5 in. (8.9 x 44.5 x 57.1 cm)"
-"N9300","Cisco Nexus 93120TX","N9K-C93120TX","Acoustics",""
-"N9300","Cisco Nexus 93120TX","N9K-C93120TX","RoHS compliance","Yes"
-"N9300","Cisco Nexus 93128TX","N9K-C93128TX","Ports","96 fixed 1/10GBASE-T ports"
-"N9300","Cisco Nexus 93128TX","N9K-C93128TX","Supported speeds","100 Megabit Ethernet and 1/10 Gigabit Ethernet speeds"
-"N9300","Cisco Nexus 93128TX","N9K-C93128TX","40 Gigabit Ethernet uplink port","6 or 8 QSFP+ ports active through the uplink module"
-"N9300","Cisco Nexus 93128TX","N9K-C93128TX","40 Gigabit Ethernet uplink port",""" Customers have the choice of either N9K-M6PQ or N9K-M12PQ for 40 Gigabit Ethernet uplink connectivity to aggregation or spine switches."""
-"N9300","Cisco Nexus 93128TX","N9K-C93128TX","100 Gigabit Ethernet uplink ports","""100 Gigabit Ethernet uplink connectivity to spine switches or routers through the N9K-M4PC- uplink module, with CPF2 optics as well as the Cisco CPAK® 100-Gbps module through converters."""
-"N9300","Cisco Nexus 93128TX","N9K-C93128TX","100 Gigabit Ethernet uplink ports",""" The N9K-M4PC-CFP2 offers 5 MB of additional buffer space for each port."""
-"N9300","Cisco Nexus 93128TX","N9K-C93128TX","Power supplies (up to 2)","""930W DC, or 1200W HVAC/HVDC"""
-"N9300","Cisco Nexus 93128TX","N9K-C93128TX","Typical power* (AC & DC)","582W"
-"N9300","Cisco Nexus 9332PQ","N9K-C9332PQ","Ports","32 QSFP+ ports"
-"N9300","Cisco Nexus 9332PQ","N9K-C9332PQ","Supported speeds","40 Gigabit Ethernet speeds"
-"N9300","Cisco Nexus 9332PQ","N9K-C9332PQ","40 Gigabit Ethernet uplink port","The switch offers 25 MB of additional packet buffer space shared with all ports for more resilient operations."
-"N9300","Cisco Nexus 9332PQ","N9K-C9332PQ","40 Gigabit Ethernet uplink port","Advanced QSFP+ optics enable connectivity using existing 10 Gigabit Ethernet fiber. "
-"N9300","Cisco Nexus 9332PQ","N9K-C9332PQ","100 Gigabit Ethernet uplink ports","NA"
-"N9300","Cisco Nexus 9332PQ","N9K-C9332PQ","100 Gigabit Ethernet uplink ports","NA"
-"N9300","Cisco Nexus 9332PQ","N9K-C9332PQ","Power supplies (up to 2)","""650-watt (W) AC, 930W DC, or 1200W HVAC/HVDC"""
-"N9300","Cisco Nexus 9332PQ","N9K-C9332PQ","Typical power* (AC & DC)","228W"
-"N9300","Cisco Nexus 9332PQ","N9K-C9332PQ","Maximum power* (AC & DC)","508W"
-"N9300","Cisco Nexus 9332PQ","N9K-C9332PQ","Input voltage (AC)","100 to 240V"
-"N9300","Cisco Nexus 9332PQ","N9K-C9332PQ","Input voltage (HVAC)","200 to 277V"
-"N9300","Cisco Nexus 9332PQ","N9K-C9332PQ","Input voltage (DC)","-40V to -72V DC (min-max)  -48V to -60V DC (nominal)"
-"N9300","Cisco Nexus 9332PQ","N9K-C9332PQ","Input voltage (HVDC)","–240 to –380V"
-"N9300","Cisco Nexus 9332PQ","N9K-C9332PQ","Frequency (AC)","50 to 60 Hz"
-"N9300","Cisco Nexus 9332PQ","N9K-C9332PQ","Fans","4"
-"N9300","Cisco Nexus 9332PQ","N9K-C9332PQ","Physical (H x W x D)","1.72 x 17.3 x 22.5 in. (4.4 x 43.9 x 57.1 cm)"
-"N9300","Cisco Nexus 9332PQ","N9K-C9332PQ","Acoustics","49.1 dBA at 40% fan speed, 65.6 dBA at 70% fan speed, and 78.5 dB at 100% fan speed"
-"N9300","Cisco Nexus 9332PQ","N9K-C9332PQ","RoHS compliance","Yes"
-"N9300","Cisco Nexus 9372PX","N9K-C9372PX","Ports","48 fixed SPF+ ports"
-"N9300","Cisco Nexus 9372PX","N9K-C9372PX","Supported speeds","1/10 Gigabit Ethernet speeds"
-"N9300","Cisco Nexus 9372PX","N9K-C9372PX","40 Gigabit Ethernet uplink port","6 or 12 QFSP+ ports active through the uplink module"
-"N9300","Cisco Nexus 9372PX","N9K-C9372PX","40 Gigabit Ethernet uplink port",""" Customers have the choice of either N9K-M6PQ or N9K-M12PQ for 40 Gigabit Ethernet uplink connectivity to aggregation or spine switches."""
-"N9300","Cisco Nexus 9372PX","N9K-C9372PX","100 Gigabit Ethernet uplink ports","""Customer can have 100 Gigabit Ethernet uplink connectivity to spine switches or routers through the N9K-M4PC- uplink module, with CPF2 optics as well as the Cisco CPAK® 100-Gbps module through converters."""
-"N9300","Cisco Nexus 9372PX","N9K-C9372PX","100 Gigabit Ethernet uplink ports",""" The N9K-M4PC-CFP2 offers 5 MB of additional buffer space for each port."""
-"N9300","Cisco Nexus 9372PX","N9K-C9372PX","Power supplies (up to 2)","""650W AC, 930W DC, or 1200W HVAC/HVDC"""
-"N9300","Cisco Nexus 9372PX","N9K-C9372PX","Typical power* (AC & DC)","232W"
-"N9300","Cisco Nexus 9372PX","N9K-C9372PX","Maximum power* (AC & DC)","455W"
-"N9300","Cisco Nexus 9372PX","N9K-C9372PX","Input voltage (AC)","100 to 240V"
-"N9300","Cisco Nexus 9372PX","N9K-C9372PX","Input voltage (HVAC)","200 to 277V"
-"N9300","Cisco Nexus 9372PX","N9K-C9372PX","Input voltage (DC)","–48 to –60V"
-"N9300","Cisco Nexus 9372PX","N9K-C9372PX","Input voltage (HVDC)","–240 to –380V"
-"N9300","Cisco Nexus 9372PX","N9K-C9372PX","Frequency (AC)","50 to 60 Hz"
-"N9300","Cisco Nexus 9372PX","N9K-C9372PX","Fans","3"
-"N9300","Cisco Nexus 9372PX","N9K-C9372PX","Physical (H x W x D)","""3.5 x 17.5 x 22.5 in. (8.9 x 44.5 x 57.1 cm)"""
-"N9300","Cisco Nexus 9372PX","N9K-C9372PX","Acoustics","""68.3 dBA at 40% fan speed, 78.8 dBA at 70% fan speed, and 84.5 dB at 100% fan speed"""
-"N9300","Cisco Nexus 9372PX","N9K-C9372PX","RoHS compliance","Yes"
-"N9300","Cisco Nexus 93128TX","N9K-C93128TX","Maximum power* (AC & DC)","853W"
-"N9300","Cisco Nexus 93128TX","N9K-C93128TX","Input voltage (AC)","""100 to 120V (maximum output 800W) 200 to 240V (maximum output 1200W)"""
-"N9300","Cisco Nexus 93128TX","N9K-C93128TX","Input voltage (HVAC)","200 to 277V"
-"N9300","Cisco Nexus 93128TX","N9K-C93128TX","Input voltage (DC)","-48 to -60V"
-"N9300","Cisco Nexus 93128TX","N9K-C93128TX","Input voltage (HVDC)","-240 to -380V"
-"N9300","Cisco Nexus 93128TX","N9K-C93128TX","Frequency (AC)","NA"
-"N9300","Cisco Nexus 93128TX","N9K-C93128TX","Fans","NA"
-"N9300","Cisco Nexus 93128TX","N9K-C93128TX","Physical (H x W x D)","NA"
-"N9300","Cisco Nexus 93128TX","N9K-C93128TX","Acoustics","NA"
-"N9300","Cisco Nexus 93128TX","N9K-C93128TX","RoHS compliance","NA"
-"N9300","Cisco Nexus 9372PX-E","N9K-C9372PX-E","Ports","48 fixed 1/10-Gbps SFP+ and 6 QSFP+ ports"
-"N9300","Cisco Nexus 9372PX-E","N9K-C9372PX-E","Supported speeds","1/10 Gigabit Ethernet speeds"
-"N9300","Cisco Nexus 9372PX-E","N9K-C9372PX-E","40 Gigabit Ethernet uplink port","The switch offers 25 MB of additional packet buffer space shared with all ports for more resilient operations."
-"N9300","Cisco Nexus 9372PX-E","N9K-C9372PX-E","40 Gigabit Ethernet uplink port","""6 fixed QSFP+ ports Advanced QSFP+ optics enable connectivity using existing 10 Gigabit Ethernet fiber."""
-"N9300","Cisco Nexus 9372PX-E","N9K-C9372PX-E","100 Gigabit Ethernet uplink ports","NA"
-"N9300","Cisco Nexus 9372PX-E","N9K-C9372PX-E","100 Gigabit Ethernet uplink ports","NA"
-"N9300","Cisco Nexus 9372PX-E","N9K-C9372PX-E","Power supplies (up to 2)","""650W AC, 930W DC, or 1200W HVAC/HVDC"""
-"N9300","Cisco Nexus 9372PX-E","N9K-C9372PX-E","Typical power* (AC & DC)","210W"
-"N9300","Cisco Nexus 9372PX-E","N9K-C9372PX-E","Maximum power* (AC & DC)","537W"
-"N9300","Cisco Nexus 9372PX-E","N9K-C9372PX-E","Input voltage (AC)","100 to 240V"
-"N9300","Cisco Nexus 9372PX-E","N9K-C9372PX-E","Input voltage (HVAC)","200 to 277V"
-"N9300","Cisco Nexus 9372PX-E","N9K-C9372PX-E","Input voltage (DC)","-40V to -72V DC (min-max)  -48V to -60V DC (nominal)"
-"N9300","Cisco Nexus 9372PX-E","N9K-C9372PX-E","Input voltage (HVDC)","–240 to –380V"
-"N9300","Cisco Nexus 9372PX-E","N9K-C9372PX-E","Frequency (AC)","50 to 60 Hz"
-"N9300","Cisco Nexus 9372PX-E","N9K-C9372PX-E","Fans","4"
-"N9300","Cisco Nexus 9372PX-E","N9K-C9372PX-E","Physical (H x W x D)","1.72 x 17.3 x 22.5 in. (4.4 x 43.9 x 57.1 cm)"
-"N9300","Cisco Nexus 9372PX-E","N9K-C9372PX-E","Acoustics","""48.5 dBA at 40% fan speed, 64.9 dBA at 70% fan speed, and 77.8 dB at 100% fan speed"""
-"N9300","Cisco Nexus 9372PX-E","N9K-C9372PX-E","RoHS compliance","Yes"
-"N9300","Cisco Nexus 9396PX","N9K-C9396PX","Ports","48 fixed 1/10-Gbps SFP+ and 6 QSFP+ ports"
-"N9300","Cisco Nexus 9396PX","N9K-C9396PX","Supported speeds","1/10 Gigabit Ethernet speeds"
-"N9300","Cisco Nexus 9396PX","N9K-C9396PX","40 Gigabit Ethernet uplink port","The switch offers 25 MB of additional packet buffer space shared with all ports for more resilient operations."
-"N9300","Cisco Nexus 9396PX","N9K-C9396PX","40 Gigabit Ethernet uplink port","""6 fixed QSFP+ ports Advanced QSFP+ optics enable connectivity using existing 10 Gigabit Ethernet fiber."""
-"N9300","Cisco Nexus 9396PX","N9K-C9396PX","100 Gigabit Ethernet uplink ports","NA"
-"N9300","Cisco Nexus 9396PX","N9K-C9396PX","100 Gigabit Ethernet uplink ports","NA"
-"N9300","Cisco Nexus 9396PX","N9K-C9396PX","Power supplies (up to 2)","""650W AC, 930W DC, or 1200W HVAC/HVDC"""
-"N9300","Cisco Nexus 9396PX","N9K-C9396PX","Typical power* (AC & DC)","210W"
-"N9300","Cisco Nexus 9396PX","N9K-C9396PX","Maximum power* (AC & DC)","537W"
-"N9300","Cisco Nexus 9396PX","N9K-C9396PX","Input voltage (AC)","100 to 240V"
-"N9300","Cisco Nexus 9396PX","N9K-C9396PX","Input voltage (HVAC)","200 to 277V"
-"N9300","Cisco Nexus 9396PX","N9K-C9396PX","Input voltage (DC)","-40V to -72V DC (min-max)  -48V to -60V DC (nominal)"
-"N9300","Cisco Nexus 9396PX","N9K-C9396PX","Input voltage (HVDC)","–240 to –380V"
-"N9300","Cisco Nexus 9396PX","N9K-C9396PX","Frequency (AC)","50 to 60 Hz"
-"N9300","Cisco Nexus 9396PX","N9K-C9396PX","Fans","4"
-"N9300","Cisco Nexus 9396PX","N9K-C9396PX","Physical (H x W x D)","1.72 x 17.3 x 22.5 in. (4.4 x 43.9 x 57.1 cm)"
-"N9300","Cisco Nexus 9396PX","N9K-C9396PX","Acoustics","""48.5 dBA at 40% fan speed, 64.9 dBA at 70% fan speed, and 77.8 dB at 100% fan speed"""
-"N9300","Cisco Nexus 9396PX","N9K-C9396PX","RoHS compliance","Yes"
-"N9300","Cisco Nexus 9372TX","N9K-C9372TX","Ports","48 fixed 1/10GBASE-T ports"
-"N9300","Cisco Nexus 9372TX","N9K-C9372TX","Supported speeds","100 Megabit Ethernet and 1/10 Gigabit Ethernet speeds"
-"N9300","Cisco Nexus 9372TX","N9K-C9372TX","40 Gigabit Ethernet uplink port","6 or 12 QFSP+ ports active through the uplink module"
-"N9300","Cisco Nexus 9372TX","N9K-C9372TX","40 Gigabit Ethernet uplink port",""" Customers have the choice of either N9K-M6PQ or N9K-M12PQ for 40 Gigabit Ethernet uplink connectivity to aggregation or spine switches."""
-"N9300","Cisco Nexus 9372TX","N9K-C9372TX","100 Gigabit Ethernet uplink ports","""100 Gigabit Ethernet uplink connectivity to spine switches or routers through the N9K-M4PC- uplink module, with CPF2 optics as well as the Cisco CPAK® 100-Gbps module through converters."""
-"N9300","Cisco Nexus 9372TX","N9K-C9372TX","100 Gigabit Ethernet uplink ports",""" The N9K-M4PC-CFP2 offers 5 MB of additional buffer space for each port."""
-"N9300","Cisco Nexus 9372TX","N9K-C9372TX","Power supplies (up to 2)","""650W AC, 930W DC, or1200W HVAC/HVDC 930W DC, or 1200W HVAC/HVDC"""
-"N9300","Cisco Nexus 9372TX","N9K-C9372TX","Typical power* (AC & DC)","""427W, 582W"""
-"N9300","Cisco Nexus 9372TX","N9K-C9372TX","Maximum power* (AC & DC)","""712W, 853W"""
-"N9300","Cisco Nexus 9372TX","N9K-C9372TX","Input voltage (AC)","100 to 240V  "
-"N9300","Cisco Nexus 9372TX","N9K-C9372TX","Input voltage (HVAC)","200 to 277V"
-"N9300","Cisco Nexus 9372TX","N9K-C9372TX","Input voltage (DC)","-48 to -60V"
-"N9300","Cisco Nexus 9372TX","N9K-C9372TX","Input voltage (HVDC)","-240 to –380V"
-"N9300","Cisco Nexus 9372TX","N9K-C9372TX","Frequency (AC)","50 to 60 Hz"
-"N9300","Cisco Nexus 9372TX","N9K-C9372TX","Fans","3"
-"N9300","Cisco Nexus 9372TX","N9K-C9372TX","Physical (H x W x D)","""3.5 x 17.5 x 22.5 in. (8.9 x 44.5 x 57.1 cm)"""
-"N9300","Cisco Nexus 9372TX","N9K-C9372TX","Acoustics","""68.3 dBA at 40% fan speed, 78.8 dBA at 70% fan speed, and 84.5 dB at 100% fan speed"""
-"N9300","Cisco Nexus 9372TX","N9K-C9372TX","RoHS compliance","Yes"
-"N9300","Cisco Nexus 9372TX-E","N9K-C9372TX-E","Ports","48 fixed 1/10GBASE-T and 6 QSFP+ ports"
-"N9300","Cisco Nexus 9372TX-E","N9K-C9372TX-E","Supported speeds","100 Megabit Ethernet and 1/10 Gigabit Ethernet speeds"
-"N9300","Cisco Nexus 9372TX-E","N9K-C9372TX-E","40 Gigabit Ethernet uplink port","NA"
-"N9300","Cisco Nexus 9372TX-E","N9K-C9372TX-E","40 Gigabit Ethernet uplink port","""6 fixed QSFP+ ports Advanced QSFP+ optics enable connectivity using existing 10 Gigabit Ethernet fiber."""
-"N9300","Cisco Nexus 9372TX-E","N9K-C9372TX-E","100 Gigabit Ethernet uplink ports","NA"
-"N9300","Cisco Nexus 9372TX-E","N9K-C9372TX-E","100 Gigabit Ethernet uplink ports","NA"
-"N9300","Cisco Nexus 9372TX-E","N9K-C9372TX-E","Power supplies (up to 2)","""650W AC, 930W DC, or 1200W HVAC/HVDC"""
-"N9300","Cisco Nexus 9372TX-E","N9K-C9372TX-E","Typical power* (AC & DC)","374.5W"
-"N9300","Cisco Nexus 9372TX-E","N9K-C9372TX-E","Maximum power* (AC & DC)","694W"
-"N9300","Cisco Nexus 9372TX-E","N9K-C9372TX-E","Input voltage (AC)","100 to 240V"
-"N9300","Cisco Nexus 9372TX-E","N9K-C9372TX-E","Input voltage (HVAC)","200 to 277V"
-"N9300","Cisco Nexus 9372TX-E","N9K-C9372TX-E","Input voltage (DC)","-40V to -72V DC (min-max)  -48V to -60V DC (nominal)"""
-"N9300","Cisco Nexus 9372TX-E","N9K-C9372TX-E","Input voltage (HVDC)","–240 to –380V"
-"N9300","Cisco Nexus 9372TX-E","N9K-C9372TX-E","Frequency (AC)","50 to 60 Hz"
-"N9300","Cisco Nexus 9372TX-E","N9K-C9372TX-E","Fans","4"
-"N9300","Cisco Nexus 9372TX-E","N9K-C9372TX-E","Physical (H x W x D)","1.72 x 17.3 x 22.5 in. (4.4 x 43.9 x 57.1cm)"
-"N9300","Cisco Nexus 9372TX-E","N9K-C9372TX-E","Acoustics","""48.6 dBA at 40% fan speed, 65.2 dBA at 70% fan speed, and 76.5 dB at 100% fan speed"""
-"N9300","Cisco Nexus 9372TX-E","N9K-C9372TX-E","RoHS compliance","Yes"
-"N9300","Cisco Nexus 9396TX","N9K-C9396TX","Ports","48 fixed 1/10GBASE-T and 6 QSFP+ ports"
-"N9300","Cisco Nexus 9396TX","N9K-C9396TX","Supported speeds","100 Megabit Ethernet and 1/10 Gigabit Ethernet speeds"
-"N9300","Cisco Nexus 9396TX","N9K-C9396TX","40 Gigabit Ethernet uplink port","NA"
-"N9300","Cisco Nexus 9396TX","N9K-C9396TX","40 Gigabit Ethernet uplink port","""6 fixed QSFP+ ports Advanced QSFP+ optics enable connectivity using existing 10 Gigabit Ethernet fiber."""
-"N9300","Cisco Nexus 9396TX","N9K-C9396TX","100 Gigabit Ethernet uplink ports","NA"
-"N9300","Cisco Nexus 9396TX","N9K-C9396TX","100 Gigabit Ethernet uplink ports","NA"
-"N9300","Cisco Nexus 9396TX","N9K-C9396TX","Power supplies (up to 2)","""650W AC, 930W DC, or 1200W HVAC/HVDC"""
-"N9300","Cisco Nexus 9396TX","N9K-C9396TX","Typical power* (AC & DC)","374.5W"
-"N9300","Cisco Nexus 9396TX","N9K-C9396TX","Maximum power* (AC & DC)","694W"
-"N9300","Cisco Nexus 9396TX","N9K-C9396TX","Input voltage (AC)","100 to 240V"
-"N9300","Cisco Nexus 9396TX","N9K-C9396TX","Input voltage (HVAC)","200 to 277V"
-"N9300","Cisco Nexus 9396TX","N9K-C9396TX","Input voltage (DC)","-40V to -72V DC (min-max)  -48V to -60V DC (nominal)"""
-"N9300","Cisco Nexus 9396TX","N9K-C9396TX","Input voltage (HVDC)","–240 to –380V"
-"N9300","Cisco Nexus 9396TX","N9K-C9396TX","Frequency (AC)","50 to 60 Hz"
-"N9300","Cisco Nexus 9396TX","N9K-C9396TX","Fans","4"
-"N9300","Cisco Nexus 9396TX","N9K-C9396TX","Physical (H x W x D)","1.72 x 17.3 x 22.5 in. (4.4 x 43.9 x 57.1cm)"
-"N9300","Cisco Nexus 9396TX","N9K-C9396TX","Acoustics","""48.6 dBA at 40% fan speed, 65.2 dBA at 70% fan speed, and 76.5 dB at 100% fan speed"""
-"N9300","Cisco Nexus 9396TX","N9K-C9396TX","RoHS compliance","Yes"
-"UCS B200","UCS-ASR57-B200M4","UCS-ASR57-B200M4","Cisco UCS Virtual Interface Card (VIC) 1340","1200 Series VICs enable advanced networking features including Netflow for network statistics, and DPDK, USNIC for low latency computing applications. ●  1300 Series VICs include all of the 1200 Series features plus additional enhancements including network overlay offload support for NVGRE and VXLAN, and RoCE services. ●  2-port, 40 Gigabit Ethernet, Fibre Channel over Ethernet (FCoE)-capable modular LAN on motherboard (mLOM) mezzanine adapter. ●  2x ports - 40 Gbps Unified I/O ports or 2 sets of 4 x 10-Gbps unified I/O ports. ●  Delivers 80 Gbps total I/O throughput to the server"
-"UCS B200","UCS-B200M4-2680D","UCS-B200M4-2680D","Cisco UCS Virtual Interface Card (VIC) 1340","1200 Series VICs enable advanced networking features including Netflow for network statistics, and DPDK, USNIC for low latency computing applications. ●  1300 Series VICs include all of the 1200 Series features plus additional enhancements including network overlay offload support for NVGRE and VXLAN, and RoCE services. ●  2-port, 40 Gigabit Ethernet, Fibre Channel over Ethernet (FCoE)-capable modular LAN on motherboard (mLOM) mezzanine adapter. ●  2x ports - 40 Gbps Unified I/O ports or 2 sets of 4 x 10-Gbps unified I/O ports. ●  Delivers 80 Gbps total I/O throughput to the server"
-"UCS B200","UCS-ASR57-B200M4","UCS-ASR57-B200M4","Processors","2 Intel Xeon Processor E5-2600 v4 and v3 Product Family CPUs For a complete list of processor options, please refer to the correspondingspec sheet."""
-"UCS B200","UCS-ASR57-B200M4","UCS-ASR57-B200M4","Processor cores","4, 6, 8, 10, 12, 14, 16, 18, 20, and 22 cores, varying by processor model For a complete list of processor options, please refer to the correspondingspec sheet."""
-"UCS B200","UCS-ASR57-B200M4","UCS-ASR57-B200M4","Memory","24 DIMM slots Maximum of 1.5 TB with 64 GB DIMMs For a complete list of memory options, please refer to the correspondingspec sheet"""
-"UCS B200","UCS-ASR57-B200M4","UCS-ASR57-B200M4","Mezzanine adapter slots","2  Advanced ECC"""
-"UCS B200","UCS-ASR57-B200M4","UCS-ASR57-B200M4","Disk drives","Up to 2 optional, hot-plug, front-access SAS, SATA, and PCIe NVMe HDDs or SSDs."
-"UCS B200","UCS-ASR57-B200M4","UCS-ASR57-B200M4","Disk drive options","For a complete list of disk options, please refer to the correspondingspec sheet."""
-"UCS B200","UCS-ASR57-B200M4","UCS-ASR57-B200M4","Maximum internal storage","Up to 3.2 TB"
-"UCS B200","UCS-ASR57-B200M4","UCS-ASR57-B200M4","Drive controller","Optional 12Gb SAS RAID Controller (LSI SAS 3108) Optional 12Gb SAS RAID Controller (LSI SAS 3108) with built-in 2GB flash-backed write cache RAID 0 and 1 support"""
-"UCS B200","UCS-ASR57-B200M4","UCS-ASR57-B200M4","Flash memory","2 slots for 32 or 64-GB SD flash memory cards"
-"UCS B200","UCS-ASR57-B200M4","UCS-ASR57-B200M4","Management","Managed from the Cisco UCS 6300, 6200 and 6100 Series Fabric Interconnects by Cisco UCS Manager."
-"UCS B200","UCS-ASR57-B200M4","UCS-ASR57-B200M4","Temperature: Operating","50 to 95°F (10 to 35°C)"
-"UCS B200","UCS-ASR57-B200M4","UCS-ASR57-B200M4","Temperature: Nonoperating","-40 to 149°F (-40 to 65°C)"
-"UCS B200","UCS-ASR57-B200M4","UCS-ASR57-B200M4","Humidity: Operating","5 to 93% noncondensing"
-"UCS B200","UCS-ASR57-B200M4","UCS-ASR57-B200M4","Humidity: Nonoperating","5 to 93% noncondensing"
-"UCS B200","UCS-ASR57-B200M4","UCS-ASR57-B200M4","Altitude: Operating","0 to 10,000 ft (0 to 3000m); maximum ambient temperature decreases by 1°C per 300m."
-"UCS B200","UCS-ASR57-B200M4","UCS-ASR57-B200M4","Altitude: Nonoperating","40.000 ft (12,000m)"
-"UCS B200","UCS-B200M4-2680D","UCS-B200M4-2680D","Processors","2 Intel Xeon Processor E5-2600 v4 and v3 Product Family CPUs For a complete list of processor options, please refer to the correspondingspec sheet."""
-"UCS B200","UCS-B200M4-2680D","UCS-B200M4-2680D","Processor cores","4, 6, 8, 10, 12, 14, 16, 18, 20, and 22 cores, varying by processor model For a complete list of processor options, please refer to the correspondingspec sheet."""
-"UCS B200","UCS-B200M4-2680D","UCS-B200M4-2680D","Memory","24 DIMM slots Maximum of 1.5 TB with 64 GB DIMMs For a complete list of memory options, please refer to the correspondingspec sheet"""
-"UCS B200","UCS-B200M4-2680D","UCS-B200M4-2680D","Mezzanine adapter slots","2  Advanced ECC"""
-"UCS B200","UCS-B200M4-2680D","UCS-B200M4-2680D","Disk drives","Up to 2 optional, hot-plug, front-access SAS, SATA, and PCIe NVMe HDDs or SSDs."
-"UCS B200","UCS-B200M4-2680D","UCS-B200M4-2680D","Disk drive options","For a complete list of disk options, please refer to the correspondingspec sheet."""
-"UCS B200","UCS-B200M4-2680D","UCS-B200M4-2680D","Maximum internal storage","Up to 3.2 TB"
-"UCS B200","UCS-B200M4-2680D","UCS-B200M4-2680D","Drive controller","Optional 12Gb SAS RAID Controller (LSI SAS 3108) Optional 12Gb SAS RAID Controller (LSI SAS 3108) with built-in 2GB flash-backed write cache RAID 0 and 1 support"""
-"UCS B200","UCS-B200M4-2680D","UCS-B200M4-2680D","Flash memory","2 slots for 32 or 64-GB SD flash memory cards"
-"UCS B200","UCS-B200M4-2680D","UCS-B200M4-2680D","Management","Managed from the Cisco UCS 6300, 6200 and 6100 Series Fabric Interconnects by Cisco UCS Manager."
-"UCS B200","UCS-B200M4-2680D","UCS-B200M4-2680D","Temperature: Operating","50 to 95°F (10 to 35°C)"
-"UCS B200","UCS-B200M4-2680D","UCS-B200M4-2680D","Temperature: Nonoperating","-40 to 149°F (-40 to 65°C)"
-"UCS B200","UCS-B200M4-2680D","UCS-B200M4-2680D","Humidity: Operating","5 to 93% noncondensing"
-"UCS B200","UCS-B200M4-2680D","UCS-B200M4-2680D","Humidity: Nonoperating","5 to 93% noncondensing"
-"UCS B200","UCS-B200M4-2680D","UCS-B200M4-2680D","Altitude: Operating","0 to 10,000 ft (0 to 3000m); maximum ambient temperature decreases by 1°C per 300m."
-"UCS B200","UCS-B200M4-2680D","UCS-B200M4-2680D","Altitude: Nonoperating","40.000 ft (12,000m)"
-"UCS B200","UCS-UC-B200M4","UCS-UC-B200M4","Processors","2 Intel Xeon Processor E5-2600 v4 and v3 Product Family CPUs For a complete list of processor options, please refer to the correspondingspec sheet."""
-"UCS B200","UCS-UC-B200M4","UCS-UC-B200M4","Processor cores","4, 6, 8, 10, 12, 14, 16, 18, 20, and 22 cores, varying by processor model For a complete list of processor options, please refer to the correspondingspec sheet."""
-"UCS B200","UCS-UC-B200M4","UCS-UC-B200M4","Memory","24 DIMM slots Maximum of 1.5 TB with 64 GB DIMMs For a complete list of memory options, please refer to the correspondingspec sheet"""
-"UCS B200","UCS-UC-B200M4","UCS-UC-B200M4","Mezzanine adapter slots","2  Advanced ECC"""
-"UCS B200","UCS-UC-B200M4","UCS-UC-B200M4","Disk drives","Up to 2 optional, hot-plug, front-access SAS, SATA, and PCIe NVMe HDDs or SSDs."
-"UCS B200","UCS-UC-B200M4","UCS-UC-B200M4","Disk drive options","For a complete list of disk options, please refer to the correspondingspec sheet."""
-"UCS B200","UCS-UC-B200M4","UCS-UC-B200M4","Maximum internal storage","Up to 3.2 TB"
-"UCS B200","UCS-UC-B200M4","UCS-UC-B200M4","Drive controller","Optional 12Gb SAS RAID Controller (LSI SAS 3108) Optional 12Gb SAS RAID Controller (LSI SAS 3108) with built-in 2GB flash-backed write cache RAID 0 and 1 support"""
-"UCS B200","UCS-UC-B200M4","UCS-UC-B200M4","Flash memory","2 slots for 32 or 64-GB SD flash memory cards"
-"UCS B200","UCS-UC-B200M4","UCS-UC-B200M4","Management","Managed from the Cisco UCS 6300, 6200 and 6100 Series Fabric Interconnects by Cisco UCS Manager."
-"UCS B200","UCS-UC-B200M4","UCS-UC-B200M4","Temperature: Operating","50 to 95°F (10 to 35°C)"
-"UCS B200","UCS-UC-B200M4","UCS-UC-B200M4","Temperature: Nonoperating","-40 to 149°F (-40 to 65°C)"
-"UCS B200","UCS-UC-B200M4","UCS-UC-B200M4","Humidity: Operating","5 to 93% noncondensing"
-"UCS B200","UCS-UC-B200M4","UCS-UC-B200M4","Humidity: Nonoperating","5 to 93% noncondensing"
-"UCS B200","UCS-UC-B200M4","UCS-UC-B200M4","Altitude: Operating","0 to 10,000 ft (0 to 3000m); maximum ambient temperature decreases by 1°C per 300m."
-"UCS B200","UCS-UC-B200M4","UCS-UC-B200M4","Altitude: Nonoperating","40.000 ft (12,000m)"
-"UCS B200","UCSB-B200-M4","UCSB-B200-M4","Processors","2 Intel Xeon Processor E5-2600 v4 and v3 Product Family CPUs For a complete list of processor options, please refer to the correspondingspec sheet."""
-"UCS B200","UCSB-B200-M4","UCSB-B200-M4","Processor cores","4, 6, 8, 10, 12, 14, 16, 18, 20, and 22 cores, varying by processor model For a complete list of processor options, please refer to the correspondingspec sheet."""
-"UCS B200","UCSB-B200-M4","UCSB-B200-M4","Memory","24 DIMM slots Maximum of 1.5 TB with 64 GB DIMMs For a complete list of memory options, please refer to the correspondingspec sheet"""
-"UCS B200","UCSB-B200-M4","UCSB-B200-M4","Mezzanine adapter slots","2  Advanced ECC"""
-"UCS B200","UCSB-B200-M4","UCSB-B200-M4","Disk drives","Up to 2 optional, hot-plug, front-access SAS, SATA, and PCIe NVMe HDDs or SSDs."
-"UCS B200","UCSB-B200-M4","UCSB-B200-M4","Disk drive options","For a complete list of disk options, please refer to the correspondingspec sheet."""
-"UCS B200","UCSB-B200-M4","UCSB-B200-M4","Maximum internal storage","Up to 3.2 TB"
-"UCS B200","UCSB-B200-M4","UCSB-B200-M4","Drive controller","Optional 12Gb SAS RAID Controller (LSI SAS 3108) Optional 12Gb SAS RAID Controller (LSI SAS 3108) with built-in 2GB flash-backed write cache RAID 0 and 1 support"""
-"UCS B200","UCSB-B200-M4","UCSB-B200-M4","Flash memory","2 slots for 32 or 64-GB SD flash memory cards"
-"UCS B200","UCSB-B200-M4","UCSB-B200-M4","Management","Managed from the Cisco UCS 6300, 6200 and 6100 Series Fabric Interconnects by Cisco UCS Manager."
-"UCS B200","UCSB-B200-M4","UCSB-B200-M4","Temperature: Operating","50 to 95°F (10 to 35°C)"
-"UCS B200","UCSB-B200-M4","UCSB-B200-M4","Temperature: Nonoperating","-40 to 149°F (-40 to 65°C)"
-"UCS B200","UCSB-B200-M4","UCSB-B200-M4","Humidity: Operating","5 to 93% noncondensing"
-"UCS B200","UCSB-B200-M4","UCSB-B200-M4","Humidity: Nonoperating","5 to 93% noncondensing"
-"UCS B200","UCSB-B200-M4","UCSB-B200-M4","Altitude: Operating","0 to 10,000 ft (0 to 3000m); maximum ambient temperature decreases by 1°C per 300m."
-"UCS B200","UCSB-B200-M4","UCSB-B200-M4","Altitude: Nonoperating","40.000 ft (12,000m)"
-"UCS B200","UCSB-B200-M4-BR","UCSB-B200-M4-BR","Processors","2 Intel Xeon Processor E5-2600 v4 and v3 Product Family CPUs For a complete list of processor options, please refer to the correspondingspec sheet."""
-"UCS B200","UCSB-B200-M4-BR","UCSB-B200-M4-BR","Processor cores","4, 6, 8, 10, 12, 14, 16, 18, 20, and 22 cores, varying by processor model For a complete list of processor options, please refer to the correspondingspec sheet."""
-"UCS B200","UCSB-B200-M4-BR","UCSB-B200-M4-BR","Memory","24 DIMM slots Maximum of 1.5 TB with 64 GB DIMMs For a complete list of memory options, please refer to the correspondingspec sheet"""
-"UCS B200","UCSB-B200-M4-BR","UCSB-B200-M4-BR","Mezzanine adapter slots","2  Advanced ECC"""
-"UCS B200","UCSB-B200-M4-BR","UCSB-B200-M4-BR","Disk drives","Up to 2 optional, hot-plug, front-access SAS, SATA, and PCIe NVMe HDDs or SSDs."
-"UCS B200","UCSB-B200-M4-BR","UCSB-B200-M4-BR","Disk drive options","For a complete list of disk options, please refer to the correspondingspec sheet."""
-"UCS B200","UCSB-B200-M4-BR","UCSB-B200-M4-BR","Maximum internal storage","Up to 3.2 TB"
-"UCS B200","UCSB-B200-M4-BR","UCSB-B200-M4-BR","Drive controller","Optional 12Gb SAS RAID Controller (LSI SAS 3108) Optional 12Gb SAS RAID Controller (LSI SAS 3108) with built-in 2GB flash-backed write cache RAID 0 and 1 support"""
-"UCS B200","UCSB-B200-M4-BR","UCSB-B200-M4-BR","Flash memory","2 slots for 32 or 64-GB SD flash memory cards"
-"UCS B200","UCSB-B200-M4-BR","UCSB-B200-M4-BR","Management","Managed from the Cisco UCS 6300, 6200 and 6100 Series Fabric Interconnects by Cisco UCS Manager."
-"UCS B200","UCSB-B200-M4-BR","UCSB-B200-M4-BR","Temperature: Operating","50 to 95°F (10 to 35°C)"
-"UCS B200","UCSB-B200-M4-BR","UCSB-B200-M4-BR","Temperature: Nonoperating","-40 to 149°F (-40 to 65°C)"
-"UCS B200","UCSB-B200-M4-BR","UCSB-B200-M4-BR","Humidity: Operating","5 to 93% noncondensing"
-"UCS B200","UCSB-B200-M4-BR","UCSB-B200-M4-BR","Humidity: Nonoperating","5 to 93% noncondensing"
-"UCS B200","UCSB-B200-M4-BR","UCSB-B200-M4-BR","Altitude: Operating","0 to 10,000 ft (0 to 3000m); maximum ambient temperature decreases by 1°C per 300m."
-"UCS B200","UCSB-B200-M4-BR","UCSB-B200-M4-BR","Altitude: Nonoperating","40.000 ft (12,000m)"
-"UCS B200","UCSB-B200-M4-CH","UCSB-B200-M4-CH","Processors","2 Intel Xeon Processor E5-2600 v4 and v3 Product Family CPUs For a complete list of processor options, please refer to the correspondingspec sheet."""
-"UCS B200","UCSB-B200-M4-CH","UCSB-B200-M4-CH","Processor cores","4, 6, 8, 10, 12, 14, 16, 18, 20, and 22 cores, varying by processor model For a complete list of processor options, please refer to the correspondingspec sheet."""
-"UCS B200","UCSB-B200-M4-CH","UCSB-B200-M4-CH","Memory","24 DIMM slots Maximum of 1.5 TB with 64 GB DIMMs For a complete list of memory options, please refer to the correspondingspec sheet"""
-"UCS B200","UCSB-B200-M4-CH","UCSB-B200-M4-CH","Mezzanine adapter slots","2  Advanced ECC"""
-"UCS B200","UCSB-B200-M4-CH","UCSB-B200-M4-CH","Disk drives","Up to 2 optional, hot-plug, front-access SAS, SATA, and PCIe NVMe HDDs or SSDs."
-"UCS B200","UCSB-B200-M4-CH","UCSB-B200-M4-CH","Disk drive options","For a complete list of disk options, please refer to the correspondingspec sheet."""
-"UCS B200","UCSB-B200-M4-CH","UCSB-B200-M4-CH","Maximum internal storage","Up to 3.2 TB"
-"UCS B200","UCSB-B200-M4-CH","UCSB-B200-M4-CH","Drive controller","Optional 12Gb SAS RAID Controller (LSI SAS 3108) Optional 12Gb SAS RAID Controller (LSI SAS 3108) with built-in 2GB flash-backed write cache RAID 0 and 1 support"""
-"UCS B200","UCSB-B200-M4-CH","UCSB-B200-M4-CH","Flash memory","2 slots for 32 or 64-GB SD flash memory cards"
-"UCS B200","UCSB-B200-M4-CH","UCSB-B200-M4-CH","Management","Managed from the Cisco UCS 6300, 6200 and 6100 Series Fabric Interconnects by Cisco UCS Manager."
-"UCS B200","UCSB-B200-M4-CH","UCSB-B200-M4-CH","Temperature: Operating","50 to 95°F (10 to 35°C)"
-"UCS B200","UCSB-B200-M4-CH","UCSB-B200-M4-CH","Temperature: Nonoperating","-40 to 149°F (-40 to 65°C)"
-"UCS B200","UCSB-B200-M4-CH","UCSB-B200-M4-CH","Humidity: Operating","5 to 93% noncondensing"
-"UCS B200","UCSB-B200-M4-CH","UCSB-B200-M4-CH","Humidity: Nonoperating","5 to 93% noncondensing"
-"UCS B200","UCSB-B200-M4-CH","UCSB-B200-M4-CH","Altitude: Operating","0 to 10,000 ft (0 to 3000m); maximum ambient temperature decreases by 1°C per 300m."
-"UCS B200","UCSB-B200-M4-CH","UCSB-B200-M4-CH","Altitude: Nonoperating","40.000 ft (12,000m)"
-"UCS B200","UCSB-B200-M4-U","UCSB-B200-M4-U","Processors","2 Intel Xeon Processor E5-2600 v4 and v3 Product Family CPUs For a complete list of processor options, please refer to the correspondingspec sheet."""
-"UCS B200","UCSB-B200-M4-U","UCSB-B200-M4-U","Processor cores","4, 6, 8, 10, 12, 14, 16, 18, 20, and 22 cores, varying by processor model For a complete list of processor options, please refer to the correspondingspec sheet."""
-"UCS B200","UCSB-B200-M4-U","UCSB-B200-M4-U","Memory","24 DIMM slots Maximum of 1.5 TB with 64 GB DIMMs For a complete list of memory options, please refer to the correspondingspec sheet"""
-"UCS B200","UCSB-B200-M4-U","UCSB-B200-M4-U","Mezzanine adapter slots","2  Advanced ECC"""
-"UCS B200","UCSB-B200-M4-U","UCSB-B200-M4-U","Disk drives","Up to 2 optional, hot-plug, front-access SAS, SATA, and PCIe NVMe HDDs or SSDs."
-"UCS B200","UCSB-B200-M4-U","UCSB-B200-M4-U","Disk drive options","For a complete list of disk options, please refer to the correspondingspec sheet."""
-"UCS B200","UCSB-B200-M4-U","UCSB-B200-M4-U","Maximum internal storage","Up to 3.2 TB"
-"UCS B200","UCSB-B200-M4-U","UCSB-B200-M4-U","Drive controller","Optional 12Gb SAS RAID Controller (LSI SAS 3108) Optional 12Gb SAS RAID Controller (LSI SAS 3108) with built-in 2GB flash-backed write cache RAID 0 and 1 support"""
-"UCS B200","UCSB-B200-M4-U","UCSB-B200-M4-U","Flash memory","2 slots for 32 or 64-GB SD flash memory cards"
-"UCS B200","UCSB-B200-M4-U","UCSB-B200-M4-U","Management","Managed from the Cisco UCS 6300, 6200 and 6100 Series Fabric Interconnects by Cisco UCS Manager."
-"UCS B200","UCSB-B200-M4-U","UCSB-B200-M4-U","Temperature: Operating","50 to 95°F (10 to 35°C)"
-"UCS B200","UCSB-B200-M4-U","UCSB-B200-M4-U","Temperature: Nonoperating","-40 to 149°F (-40 to 65°C)"
-"UCS B200","UCSB-B200-M4-U","UCSB-B200-M4-U","Humidity: Operating","5 to 93% noncondensing"
-"UCS B200","UCSB-B200-M4-U","UCSB-B200-M4-U","Humidity: Nonoperating","5 to 93% noncondensing"
-"UCS B200","UCSB-B200-M4-U","UCSB-B200-M4-U","Altitude: Operating","0 to 10,000 ft (0 to 3000m); maximum ambient temperature decreases by 1°C per 300m."
-"UCS B200","UCSB-B200-M4-U","UCSB-B200-M4-U","Altitude: Nonoperating","40.000 ft (12,000m)"
-"UCS B200","UCSB-B200-M4-U-BR","UCSB-B200-M4-U-BR","Processors","2 Intel Xeon Processor E5-2600 v4 and v3 Product Family CPUs For a complete list of processor options, please refer to the correspondingspec sheet."""
-"UCS B200","UCSB-B200-M4-U-BR","UCSB-B200-M4-U-BR","Processor cores","4, 6, 8, 10, 12, 14, 16, 18, 20, and 22 cores, varying by processor model For a complete list of processor options, please refer to the correspondingspec sheet."""
-"UCS B200","UCSB-B200-M4-U-BR","UCSB-B200-M4-U-BR","Memory","24 DIMM slots Maximum of 1.5 TB with 64 GB DIMMs For a complete list of memory options, please refer to the correspondingspec sheet"""
-"UCS B200","UCSB-B200-M4-U-BR","UCSB-B200-M4-U-BR","Mezzanine adapter slots","2  Advanced ECC"""
-"UCS B200","UCSB-B200-M4-U-BR","UCSB-B200-M4-U-BR","Disk drives","Up to 2 optional, hot-plug, front-access SAS, SATA, and PCIe NVMe HDDs or SSDs."
-"UCS B200","UCSB-B200-M4-U-BR","UCSB-B200-M4-U-BR","Disk drive options","For a complete list of disk options, please refer to the correspondingspec sheet."""
-"UCS B200","UCSB-B200-M4-U-BR","UCSB-B200-M4-U-BR","Maximum internal storage","Up to 3.2 TB"
-"UCS B200","UCSB-B200-M4-U-BR","UCSB-B200-M4-U-BR","Drive controller","Optional 12Gb SAS RAID Controller (LSI SAS 3108) Optional 12Gb SAS RAID Controller (LSI SAS 3108) with built-in 2GB flash-backed write cache RAID 0 and 1 support"""
-"UCS B200","UCSB-B200-M4-U-BR","UCSB-B200-M4-U-BR","Flash memory","2 slots for 32 or 64-GB SD flash memory cards"
-"UCS B200","UCSB-B200-M4-U-BR","UCSB-B200-M4-U-BR","Management","Managed from the Cisco UCS 6300, 6200 and 6100 Series Fabric Interconnects by Cisco UCS Manager."
-"UCS B200","UCSB-B200-M4-U-BR","UCSB-B200-M4-U-BR","Temperature: Operating","50 to 95°F (10 to 35°C)"
-"UCS B200","UCSB-B200-M4-U-BR","UCSB-B200-M4-U-BR","Temperature: Nonoperating","-40 to 149°F (-40 to 65°C)"
-"UCS B200","UCSB-B200-M4-U-BR","UCSB-B200-M4-U-BR","Humidity: Operating","5 to 93% noncondensing"
-"UCS B200","UCSB-B200-M4-U-BR","UCSB-B200-M4-U-BR","Humidity: Nonoperating","5 to 93% noncondensing"
-"UCS B200","UCSB-B200-M4-U-BR","UCSB-B200-M4-U-BR","Altitude: Operating","0 to 10,000 ft (0 to 3000m); maximum ambient temperature decreases by 1°C per 300m."
-"UCS B200","UCSB-B200-M4-U-BR","UCSB-B200-M4-U-BR","Altitude: Nonoperating","40.000 ft (12,000m)"
-"UCS B200","UCSB-B200-M4=","UCSB-B200-M4=","Processors","2 Intel Xeon Processor E5-2600 v4 and v3 Product Family CPUs For a complete list of processor options, please refer to the correspondingspec sheet."""
-"UCS B200","UCSB-B200-M4=","UCSB-B200-M4=","Processor cores","4, 6, 8, 10, 12, 14, 16, 18, 20, and 22 cores, varying by processor model For a complete list of processor options, please refer to the correspondingspec sheet."""
-"UCS B200","UCSB-B200-M4=","UCSB-B200-M4=","Memory","24 DIMM slots Maximum of 1.5 TB with 64 GB DIMMs For a complete list of memory options, please refer to the correspondingspec sheet"""
-"UCS B200","UCSB-B200-M4=","UCSB-B200-M4=","Mezzanine adapter slots","2  Advanced ECC"""
-"UCS B200","UCSB-B200-M4=","UCSB-B200-M4=","Disk drives","Up to 2 optional, hot-plug, front-access SAS, SATA, and PCIe NVMe HDDs or SSDs."
-"UCS B200","UCSB-B200-M4=","UCSB-B200-M4=","Disk drive options","For a complete list of disk options, please refer to the correspondingspec sheet."""
-"UCS B200","UCSB-B200-M4=","UCSB-B200-M4=","Maximum internal storage","Up to 3.2 TB"
-"UCS B200","UCSB-B200-M4=","UCSB-B200-M4=","Drive controller","Optional 12Gb SAS RAID Controller (LSI SAS 3108) Optional 12Gb SAS RAID Controller (LSI SAS 3108) with built-in 2GB flash-backed write cache RAID 0 and 1 support"""
-"UCS B200","UCSB-B200-M4=","UCSB-B200-M4=","Flash memory","2 slots for 32 or 64-GB SD flash memory cards"
-"UCS B200","UCSB-B200-M4=","UCSB-B200-M4=","Management","Managed from the Cisco UCS 6300, 6200 and 6100 Series Fabric Interconnects by Cisco UCS Manager."
-"UCS B200","UCSB-B200-M4=","UCSB-B200-M4=","Temperature: Operating","50 to 95°F (10 to 35°C)"
-"UCS B200","UCSB-B200-M4=","UCSB-B200-M4=","Temperature: Nonoperating","-40 to 149°F (-40 to 65°C)"
-"UCS B200","UCSB-B200-M4=","UCSB-B200-M4=","Humidity: Operating","5 to 93% noncondensing"
-"UCS B200","UCSB-B200-M4=","UCSB-B200-M4=","Humidity: Nonoperating","5 to 93% noncondensing"
-"UCS B200","UCSB-B200-M4=","UCSB-B200-M4=","Altitude: Operating","0 to 10,000 ft (0 to 3000m); maximum ambient temperature decreases by 1°C per 300m."
-"UCS B200","UCSB-B200-M4=","UCSB-B200-M4=","Altitude: Nonoperating","40.000 ft (12,000m)"
-"UCS B200","UCSB-HS-EP-M4-F","UCSB-HS-EP-M4-F","Processors","2 Intel Xeon Processor E5-2600 v4 and v3 Product Family CPUs For a complete list of processor options, please refer to the correspondingspec sheet."""
-"UCS B200","UCSB-HS-EP-M4-F","UCSB-HS-EP-M4-F","Processor cores","4, 6, 8, 10, 12, 14, 16, 18, 20, and 22 cores, varying by processor model For a complete list of processor options, please refer to the correspondingspec sheet."""
-"UCS B200","UCSB-HS-EP-M4-F","UCSB-HS-EP-M4-F","Memory","24 DIMM slots Maximum of 1.5 TB with 64 GB DIMMs For a complete list of memory options, please refer to the correspondingspec sheet"""
-"UCS B200","UCSB-HS-EP-M4-F","UCSB-HS-EP-M4-F","Mezzanine adapter slots","2  Advanced ECC"""
-"UCS B200","UCSB-HS-EP-M4-F","UCSB-HS-EP-M4-F","Disk drives","Up to 2 optional, hot-plug, front-access SAS, SATA, and PCIe NVMe HDDs or SSDs."
-"UCS B200","UCSB-HS-EP-M4-F","UCSB-HS-EP-M4-F","Disk drive options","For a complete list of disk options, please refer to the correspondingspec sheet."""
-"UCS B200","UCSB-HS-EP-M4-F","UCSB-HS-EP-M4-F","Maximum internal storage","Up to 3.2 TB"
-"UCS B200","UCSB-HS-EP-M4-F","UCSB-HS-EP-M4-F","Drive controller","Optional 12Gb SAS RAID Controller (LSI SAS 3108) Optional 12Gb SAS RAID Controller (LSI SAS 3108) with built-in 2GB flash-backed write cache RAID 0 and 1 support"""
-"UCS B200","UCSB-HS-EP-M4-F","UCSB-HS-EP-M4-F","Flash memory","2 slots for 32 or 64-GB SD flash memory cards"
-"UCS B200","UCSB-HS-EP-M4-F","UCSB-HS-EP-M4-F","Management","Managed from the Cisco UCS 6300, 6200 and 6100 Series Fabric Interconnects by Cisco UCS Manager."
-"UCS B200","UCSB-HS-EP-M4-F","UCSB-HS-EP-M4-F","Temperature: Operating","50 to 95°F (10 to 35°C)"
-"UCS B200","UCSB-HS-EP-M4-F","UCSB-HS-EP-M4-F","Temperature: Nonoperating","-40 to 149°F (-40 to 65°C)"
-"UCS B200","UCSB-HS-EP-M4-F","UCSB-HS-EP-M4-F","Humidity: Operating","5 to 93% noncondensing"
-"UCS B200","UCSB-HS-EP-M4-F","UCSB-HS-EP-M4-F","Humidity: Nonoperating","5 to 93% noncondensing"
-"UCS B200","UCSB-HS-EP-M4-F","UCSB-HS-EP-M4-F","Altitude: Operating","0 to 10,000 ft (0 to 3000m); maximum ambient temperature decreases by 1°C per 300m."
-"UCS B200","UCSB-HS-EP-M4-F","UCSB-HS-EP-M4-F","Altitude: Nonoperating","40.000 ft (12,000m)"
-"UCS B200","UCSB-HS-EP-M4-F=","UCSB-HS-EP-M4-F=","Processors","2 Intel Xeon Processor E5-2600 v4 and v3 Product Family CPUs For a complete list of processor options, please refer to the correspondingspec sheet."""
-"UCS B200","UCSB-HS-EP-M4-F=","UCSB-HS-EP-M4-F=","Processor cores","4, 6, 8, 10, 12, 14, 16, 18, 20, and 22 cores, varying by processor model For a complete list of processor options, please refer to the correspondingspec sheet."""
-"UCS B200","UCSB-HS-EP-M4-F=","UCSB-HS-EP-M4-F=","Memory","24 DIMM slots Maximum of 1.5 TB with 64 GB DIMMs For a complete list of memory options, please refer to the correspondingspec sheet"""
-"UCS B200","UCSB-HS-EP-M4-F=","UCSB-HS-EP-M4-F=","Mezzanine adapter slots","2  Advanced ECC"""
-"UCS B200","UCSB-HS-EP-M4-F=","UCSB-HS-EP-M4-F=","Disk drives","Up to 2 optional, hot-plug, front-access SAS, SATA, and PCIe NVMe HDDs or SSDs."
-"UCS B200","UCSB-HS-EP-M4-F=","UCSB-HS-EP-M4-F=","Disk drive options","For a complete list of disk options, please refer to the correspondingspec sheet."""
-"UCS B200","UCSB-HS-EP-M4-F=","UCSB-HS-EP-M4-F=","Maximum internal storage","Up to 3.2 TB"
-"UCS B200","UCSB-HS-EP-M4-F=","UCSB-HS-EP-M4-F=","Drive controller","Optional 12Gb SAS RAID Controller (LSI SAS 3108) Optional 12Gb SAS RAID Controller (LSI SAS 3108) with built-in 2GB flash-backed write cache RAID 0 and 1 support"""
-"UCS B200","UCSB-HS-EP-M4-F=","UCSB-HS-EP-M4-F=","Flash memory","2 slots for 32 or 64-GB SD flash memory cards"
-"UCS B200","UCSB-HS-EP-M4-F=","UCSB-HS-EP-M4-F=","Management","Managed from the Cisco UCS 6300, 6200 and 6100 Series Fabric Interconnects by Cisco UCS Manager."
-"UCS B200","UCSB-HS-EP-M4-F=","UCSB-HS-EP-M4-F=","Temperature: Operating","50 to 95°F (10 to 35°C)"
-"UCS B200","UCSB-HS-EP-M4-F=","UCSB-HS-EP-M4-F=","Temperature: Nonoperating","-40 to 149°F (-40 to 65°C)"
-"UCS B200","UCSB-HS-EP-M4-F=","UCSB-HS-EP-M4-F=","Humidity: Operating","5 to 93% noncondensing"
-"UCS B200","UCSB-HS-EP-M4-F=","UCSB-HS-EP-M4-F=","Humidity: Nonoperating","5 to 93% noncondensing"
-"UCS B200","UCSB-HS-EP-M4-F=","UCSB-HS-EP-M4-F=","Altitude: Operating","0 to 10,000 ft (0 to 3000m); maximum ambient temperature decreases by 1°C per 300m."
-"UCS B200","UCSB-HS-EP-M4-F=","UCSB-HS-EP-M4-F=","Altitude: Nonoperating","40.000 ft (12,000m)"
-"UCS B200","UCSB-HS-EP-M4-R","UCSB-HS-EP-M4-R","Processors","2 Intel Xeon Processor E5-2600 v4 and v3 Product Family CPUs For a complete list of processor options, please refer to the correspondingspec sheet."""
-"UCS B200","UCSB-HS-EP-M4-R","UCSB-HS-EP-M4-R","Processor cores","4, 6, 8, 10, 12, 14, 16, 18, 20, and 22 cores, varying by processor model For a complete list of processor options, please refer to the correspondingspec sheet."""
-"UCS B200","UCSB-HS-EP-M4-R","UCSB-HS-EP-M4-R","Memory","24 DIMM slots Maximum of 1.5 TB with 64 GB DIMMs For a complete list of memory options, please refer to the correspondingspec sheet"""
-"UCS B200","UCSB-HS-EP-M4-R","UCSB-HS-EP-M4-R","Mezzanine adapter slots","2  Advanced ECC"""
-"UCS B200","UCSB-HS-EP-M4-R","UCSB-HS-EP-M4-R","Disk drives","Up to 2 optional, hot-plug, front-access SAS, SATA, and PCIe NVMe HDDs or SSDs."
-"UCS B200","UCSB-HS-EP-M4-R","UCSB-HS-EP-M4-R","Disk drive options","For a complete list of disk options, please refer to the correspondingspec sheet."""
-"UCS B200","UCSB-HS-EP-M4-R","UCSB-HS-EP-M4-R","Maximum internal storage","Up to 3.2 TB"
-"UCS B200","UCSB-HS-EP-M4-R","UCSB-HS-EP-M4-R","Drive controller","Optional 12Gb SAS RAID Controller (LSI SAS 3108) Optional 12Gb SAS RAID Controller (LSI SAS 3108) with built-in 2GB flash-backed write cache RAID 0 and 1 support"""
-"UCS B200","UCSB-HS-EP-M4-R","UCSB-HS-EP-M4-R","Flash memory","2 slots for 32 or 64-GB SD flash memory cards"
-"UCS B200","UCSB-HS-EP-M4-R","UCSB-HS-EP-M4-R","Management","Managed from the Cisco UCS 6300, 6200 and 6100 Series Fabric Interconnects by Cisco UCS Manager."
-"UCS B200","UCSB-HS-EP-M4-R","UCSB-HS-EP-M4-R","Temperature: Operating","50 to 95°F (10 to 35°C)"
-"UCS B200","UCSB-HS-EP-M4-R","UCSB-HS-EP-M4-R","Temperature: Nonoperating","-40 to 149°F (-40 to 65°C)"
-"UCS B200","UCSB-HS-EP-M4-R","UCSB-HS-EP-M4-R","Humidity: Operating","5 to 93% noncondensing"
-"UCS B200","UCSB-HS-EP-M4-R","UCSB-HS-EP-M4-R","Humidity: Nonoperating","5 to 93% noncondensing"
-"UCS B200","UCSB-HS-EP-M4-R","UCSB-HS-EP-M4-R","Altitude: Operating","0 to 10,000 ft (0 to 3000m); maximum ambient temperature decreases by 1°C per 300m."
-"UCS B200","UCSB-HS-EP-M4-R","UCSB-HS-EP-M4-R","Altitude: Nonoperating","40.000 ft (12,000m)"
-"UCS B200","UCSB-HS-EP-M4-R=","UCSB-HS-EP-M4-R=","Processors","2 Intel Xeon Processor E5-2600 v4 and v3 Product Family CPUs For a complete list of processor options, please refer to the correspondingspec sheet."""
-"UCS B200","UCSB-HS-EP-M4-R=","UCSB-HS-EP-M4-R=","Processor cores","4, 6, 8, 10, 12, 14, 16, 18, 20, and 22 cores, varying by processor model For a complete list of processor options, please refer to the correspondingspec sheet."""
-"UCS B200","UCSB-HS-EP-M4-R=","UCSB-HS-EP-M4-R=","Memory","24 DIMM slots Maximum of 1.5 TB with 64 GB DIMMs For a complete list of memory options, please refer to the correspondingspec sheet"""
-"UCS B200","UCSB-HS-EP-M4-R=","UCSB-HS-EP-M4-R=","Mezzanine adapter slots","2  Advanced ECC"""
-"UCS B200","UCSB-HS-EP-M4-R=","UCSB-HS-EP-M4-R=","Disk drives","Up to 2 optional, hot-plug, front-access SAS, SATA, and PCIe NVMe HDDs or SSDs."
-"UCS B200","UCSB-HS-EP-M4-R=","UCSB-HS-EP-M4-R=","Disk drive options","For a complete list of disk options, please refer to the correspondingspec sheet."""
-"UCS B200","UCSB-HS-EP-M4-R=","UCSB-HS-EP-M4-R=","Maximum internal storage","Up to 3.2 TB"
-"UCS B200","UCSB-HS-EP-M4-R=","UCSB-HS-EP-M4-R=","Drive controller","Optional 12Gb SAS RAID Controller (LSI SAS 3108) Optional 12Gb SAS RAID Controller (LSI SAS 3108) with built-in 2GB flash-backed write cache RAID 0 and 1 support"""
-"UCS B200","UCSB-HS-EP-M4-R=","UCSB-HS-EP-M4-R=","Flash memory","2 slots for 32 or 64-GB SD flash memory cards"
-"UCS B200","UCSB-HS-EP-M4-R=","UCSB-HS-EP-M4-R=","Management","Managed from the Cisco UCS 6300, 6200 and 6100 Series Fabric Interconnects by Cisco UCS Manager."
-"UCS B200","UCSB-HS-EP-M4-R=","UCSB-HS-EP-M4-R=","Temperature: Operating","50 to 95°F (10 to 35°C)"
-"UCS B200","UCSB-HS-EP-M4-R=","UCSB-HS-EP-M4-R=","Temperature: Nonoperating","-40 to 149°F (-40 to 65°C)"
-"UCS B200","UCSB-HS-EP-M4-R=","UCSB-HS-EP-M4-R=","Humidity: Operating","5 to 93% noncondensing"
-"UCS B200","UCSB-HS-EP-M4-R=","UCSB-HS-EP-M4-R=","Humidity: Nonoperating","5 to 93% noncondensing"
-"UCS B200","UCSB-HS-EP-M4-R=","UCSB-HS-EP-M4-R=","Altitude: Operating","0 to 10,000 ft (0 to 3000m); maximum ambient temperature decreases by 1°C per 300m."
-"UCS B200","UCSB-HS-EP-M4-R=","UCSB-HS-EP-M4-R=","Altitude: Nonoperating","40.000 ft (12,000m)"
-"UCS B200","CIT3-B200-M4","CIT3-B200-M4","Processors","2 Intel Xeon Processor E5-2600 v4 and v3 Product Family CPUs For a complete list of processor options, please refer to the correspondingspec sheet."""
-"UCS B200","CIT3-B200-M4","CIT3-B200-M4","Processor cores","4, 6, 8, 10, 12, 14, 16, 18, 20, and 22 cores, varying by processor model For a complete list of processor options, please refer to the correspondingspec sheet."""
-"UCS B200","CIT3-B200-M4","CIT3-B200-M4","Memory","24 DIMM slots Maximum of 1.5 TB with 64 GB DIMMs For a complete list of memory options, please refer to the correspondingspec sheet"""
-"UCS B200","CIT3-B200-M4","CIT3-B200-M4","Mezzanine adapter slots","2  Advanced ECC"""
-"UCS B200","CIT3-B200-M4","CIT3-B200-M4","Disk drives","Up to 2 optional, hot-plug, front-access SAS, SATA, and PCIe NVMe HDDs or SSDs."
-"UCS B200","CIT3-B200-M4","CIT3-B200-M4","Disk drive options","For a complete list of disk options, please refer to the correspondingspec sheet."""
-"UCS B200","CIT3-B200-M4","CIT3-B200-M4","Maximum internal storage","Up to 3.2 TB"
-"UCS B200","CIT3-B200-M4","CIT3-B200-M4","Drive controller","Optional 12Gb SAS RAID Controller (LSI SAS 3108) Optional 12Gb SAS RAID Controller (LSI SAS 3108) with built-in 2GB flash-backed write cache RAID 0 and 1 support"""
-"UCS B200","CIT3-B200-M4","CIT3-B200-M4","Flash memory","2 slots for 32 or 64-GB SD flash memory cards"
-"UCS B200","CIT3-B200-M4","CIT3-B200-M4","Management","Managed from the Cisco UCS 6300, 6200 and 6100 Series Fabric Interconnects by Cisco UCS Manager."
-"UCS B200","CIT3-B200-M4","CIT3-B200-M4","Temperature: Operating","50 to 95°F (10 to 35°C)"
-"UCS B200","CIT3-B200-M4","CIT3-B200-M4","Temperature: Nonoperating","-40 to 149°F (-40 to 65°C)"
-"UCS B200","CIT3-B200-M4","CIT3-B200-M4","Humidity: Operating","5 to 93% noncondensing"
-"UCS B200","CIT3-B200-M4","CIT3-B200-M4","Humidity: Nonoperating","5 to 93% noncondensing"
-"UCS B200","CIT3-B200-M4","CIT3-B200-M4","Altitude: Operating","0 to 10,000 ft (0 to 3000m); maximum ambient temperature decreases by 1°C per 300m."
-"UCS B200","CIT3-B200-M4","CIT3-B200-M4","Altitude: Nonoperating","40.000 ft (12,000m)"
-"UCS B200","CIT3-B200-M4-CON","CIT3-B200-M4-CON","Processors","2 Intel Xeon Processor E5-2600 v4 and v3 Product Family CPUs For a complete list of processor options, please refer to the correspondingspec sheet."""
-"UCS B200","CIT3-B200-M4-CON","CIT3-B200-M4-CON","Processor cores","4, 6, 8, 10, 12, 14, 16, 18, 20, and 22 cores, varying by processor model For a complete list of processor options, please refer to the correspondingspec sheet."""
-"UCS B200","CIT3-B200-M4-CON","CIT3-B200-M4-CON","Memory","24 DIMM slots Maximum of 1.5 TB with 64 GB DIMMs For a complete list of memory options, please refer to the correspondingspec sheet"""
-"UCS B200","CIT3-B200-M4-CON","CIT3-B200-M4-CON","Mezzanine adapter slots","2  Advanced ECC"""
-"UCS B200","CIT3-B200-M4-CON","CIT3-B200-M4-CON","Disk drives","Up to 2 optional, hot-plug, front-access SAS, SATA, and PCIe NVMe HDDs or SSDs."
-"UCS B200","CIT3-B200-M4-CON","CIT3-B200-M4-CON","Disk drive options","For a complete list of disk options, please refer to the correspondingspec sheet."""
-"UCS B200","CIT3-B200-M4-CON","CIT3-B200-M4-CON","Maximum internal storage","Up to 3.2 TB"
-"UCS B200","CIT3-B200-M4-CON","CIT3-B200-M4-CON","Drive controller","Optional 12Gb SAS RAID Controller (LSI SAS 3108) Optional 12Gb SAS RAID Controller (LSI SAS 3108) with built-in 2GB flash-backed write cache RAID 0 and 1 support"""
-"UCS B200","CIT3-B200-M4-CON","CIT3-B200-M4-CON","Flash memory","2 slots for 32 or 64-GB SD flash memory cards"
-"UCS B200","CIT3-B200-M4-CON","CIT3-B200-M4-CON","Management","Managed from the Cisco UCS 6300, 6200 and 6100 Series Fabric Interconnects by Cisco UCS Manager."
-"UCS B200","CIT3-B200-M4-CON","CIT3-B200-M4-CON","Temperature: Operating","50 to 95°F (10 to 35°C)"
-"UCS B200","CIT3-B200-M4-CON","CIT3-B200-M4-CON","Temperature: Nonoperating","-40 to 149°F (-40 to 65°C)"
-"UCS B200","CIT3-B200-M4-CON","CIT3-B200-M4-CON","Humidity: Operating","5 to 93% noncondensing"
-"UCS B200","CIT3-B200-M4-CON","CIT3-B200-M4-CON","Humidity: Nonoperating","5 to 93% noncondensing"
-"UCS B200","CIT3-B200-M4-CON","CIT3-B200-M4-CON","Altitude: Operating","0 to 10,000 ft (0 to 3000m); maximum ambient temperature decreases by 1°C per 300m."
-"UCS B200","CIT3-B200-M4-CON","CIT3-B200-M4-CON","Altitude: Nonoperating","40.000 ft (12,000m)"
-"UCS B200","UCS-UC-B200M4","UCS-UC-B200M4","Cisco UCS Virtual Interface Card (VIC) 1340","1200 Series VICs enable advanced networking features including Netflow for network statistics, and DPDK, USNIC for low latency computing applications. ●  1300 Series VICs include all of the 1200 Series features plus additional enhancements including network overlay offload support for NVGRE and VXLAN, and RoCE services. ●  2-port, 40 Gigabit Ethernet, Fibre Channel over Ethernet (FCoE)-capable modular LAN on motherboard (mLOM) mezzanine adapter. ●  2x ports - 40 Gbps Unified I/O ports or 2 sets of 4 x 10-Gbps unified I/O ports. ●  Delivers 80 Gbps total I/O throughput to the server"
-"UCS B200","UCSB-B200-M4","UCSB-B200-M4","Cisco UCS Virtual Interface Card (VIC) 1340","1200 Series VICs enable advanced networking features including Netflow for network statistics, and DPDK, USNIC for low latency computing applications. ●  1300 Series VICs include all of the 1200 Series features plus additional enhancements including network overlay offload support for NVGRE and VXLAN, and RoCE services. ●  2-port, 40 Gigabit Ethernet, Fibre Channel over Ethernet (FCoE)-capable modular LAN on motherboard (mLOM) mezzanine adapter. ●  2x ports - 40 Gbps Unified I/O ports or 2 sets of 4 x 10-Gbps unified I/O ports. ●  Delivers 80 Gbps total I/O throughput to the server"
-"UCS B200","UCSB-B200-M4-BR","UCSB-B200-M4-BR","Cisco UCS Virtual Interface Card (VIC) 1340","1200 Series VICs enable advanced networking features including Netflow for network statistics, and DPDK, USNIC for low latency computing applications. ●  1300 Series VICs include all of the 1200 Series features plus additional enhancements including network overlay offload support for NVGRE and VXLAN, and RoCE services. ●  2-port, 40 Gigabit Ethernet, Fibre Channel over Ethernet (FCoE)-capable modular LAN on motherboard (mLOM) mezzanine adapter. ●  2x ports - 40 Gbps Unified I/O ports or 2 sets of 4 x 10-Gbps unified I/O ports. ●  Delivers 80 Gbps total I/O throughput to the server"
-"ISR4000","Cisco 4221","ISR4221/K9","Aggregate Throughput","35 Mbps to 75 Mbps"
-"ISR4000","Cisco 4221","ISR4221/K9","Total onboard WAN or LAN 10/100/1000 ports","2"
-"ISR4000","Cisco 4221","ISR4221/K9","RJ-45-based ports","2"
-"ISR4000","Cisco 4221","ISR4221/K9","SFP-based ports","1"
-"ISR4000","Cisco 4221","ISR4221/K9","Enhanced service-module slots","0"
-"ISR4000","Cisco 4221","ISR4221/K9","Doublewide service-module slots","0"
-"ISR4000","Cisco 4221","ISR4221/K9","NIM slots","2"
-"ISR4000","Cisco 4221","ISR4221/K9","OIR (all I/O modules)","No"
-"ISR4000","Cisco 4221","ISR4221/K9","Onboard ISC slot","No"
-"ISR4000","Cisco 4221","ISR4221/K9","Default memory double-data-rate 3 (DDR3) error-correction-code (ECC) DRAM (Combined control/services/data planes)","4 GB"
-"ISR4000","Cisco 4221","ISR4221/K9","Maximum memory DDR3 ECC DRAM (Combined control/services/data planes)","4 GB"
-"ISR4000","Cisco 4221","ISR4221/K9","Default memory DDR3 ECC DRAM (data plane)","NA"
-"ISR4000","Cisco 4221","ISR4221/K9","Maximum memory DDR3 ECC DRAM (data plane)","NA"
-"ISR4000","Cisco 4221","ISR4221/K9","Default memory DDR3 ECC DRAM (control/services plane)","NA"
-"ISR4000","Cisco 4221","ISR4221/K9","Maximum memory DDR3 ECC DRAM (control/services plane)","NA"
-"ISR4000","Cisco 4221","ISR4221/K9","Default flash memory","8 GB"
-"ISR4000","Cisco 4221","ISR4221/K9","Maximum flash memory","8 GB"
-"ISR4000","Cisco 4221","ISR4221/K9","External USB 2.0 slots (type A)","1"
-"ISR4000","Cisco 4221","ISR4221/K9","USB console port -type B mini (up to 115.2 kbps)","0"
-"ISR4000","Cisco 4221","ISR4221/K9","Serial console port - RJ45 (up to 115.2 kbps)","1 (combo CON/AUX port)"
-"ISR4000","Cisco 4221","ISR4221/K9","Serial auxiliary port - RJ45 (up to 115.2 kbps)","1 (combo CON/AUX port)"
-"ISR4000","Cisco 4221","ISR4221/K9","Power-supply options","External AC only"
-"ISR4000","Cisco 4221","ISR4221/K9","Redundant power supply","NA"
-"ISR4000","Cisco 4221","ISR4221/K9","Power Specifications","NA"
-"ISR4000","Cisco 4221","ISR4221/K9","AC input voltage","100 to 240 VAC autoranging"
-"ISR4000","Cisco 4221","ISR4221/K9","AC input frequency","47 to 63 Hz"
-"ISR4000","Cisco 4221","ISR4221/K9","AC input current range, AC power supply (maximum)","1.5 to 0.6A"
-"ISR4000","Cisco 4221","ISR4221/K9","AC input surge current","90 A peak and less than 3 Arms per half cycle"
-"ISR4000","Cisco 4221","ISR4221/K9","Typical power (no modules) (watts)","24"
-"ISR4000","Cisco 4221","ISR4221/K9","Maximum power with AC power supply (watts)","90"
-"ISR4000","Cisco 4221","ISR4221/K9","Maximum power with PoE power supply (platform only) (watts)","NA (no PoE support)"
-"ISR4000","Cisco 4221","ISR4221/K9","Maximum endpoint PoE power available from PoE power supply (watts)","NA (no PoE support)"
-"ISR4000","Cisco 4221","ISR4221/K9","Maximum endpoint PoE power capacity with PoE boost (watts)","NA (no PoE support)"
-"ISR4000","Cisco 4221","ISR4221/K9","Sizes and Weights","NA"
-"ISR4000","Cisco 4221","ISR4221/K9","(H x W x D)","1.72 x 12.7 x 10 in (43.7 x 322.6 x 254 mm)"
-"ISR4000","Cisco 4221","ISR4221/K9","External Power Supply Dimensions (H x W x D)","37 x 73 x 152 mm (Phihong mfg PN: AA90U-120A-R) 36.5 x 67 x 155 mm (Delta mfg PN: ADP90GR BA)"
-"ISR4000","Cisco 4221","ISR4221/K9","(H x W x D)","4.13 x 18.25 x 12.94 in (104.9 x 463.6 x 328.7 mm)"
-"ISR4000","Cisco 4221","ISR4221/K9","Rack height","1 rack unit (1RU)"
-"ISR4000","Cisco 4221","ISR4221/K9","Rack-mount 19in. (48.3 cm) EIA","Optional"
-"ISR4000","Cisco 4221","ISR4221/K9","Rack-mount 23in. (58.4 cm) EIA","NA"
-"ISR4000","Cisco 4221","ISR4221/K9","Wall-mount","Yes"
-"ISR4000","Cisco 4221","ISR4221/K9","Weight with 1, 450-WAC power supply (no modules)","NA"
-"ISR4000","Cisco 4221","ISR4221/K9","Weight with 1 1,000-WAC power supply+ 1 PoE power module (no other modules)","NA"
-"ISR4000","Cisco 4221","ISR4221/K9","Weight with AC PS (no modules)","7.1 lb (3.22 kg)"
-"ISR4000","Cisco 4221","ISR4221/K9","Weight with AC PS with POE (no modules)","NA"
-"ISR4000","Cisco 4221","ISR4221/K9","Typical weight (fully loaded with modules)","8.11 lb (3.68 kg)"
-"ISR4000","Cisco 4221","ISR4221/K9","Packaging Weight","1.28 lb (0.58 kg)"
-"ISR4000","Cisco 4221","ISR4221/K9","Airflow","I/O side to bezel side"
-"ISR4000","Cisco 4221","ISR4221/K9","MTBF (Hours)","593270"
-"ISR4000","Cisco 4221","ISR4221/K9","Environmental Specifications","NA"
-"ISR4000","Cisco 4221","ISR4221/K9","Operating Conditions","NA"
-"ISR4000","Cisco 4221","ISR4221/K9","Temperature","32º to 104ºF(0º to 40ºC)"
-"ISR4000","Cisco 4221","ISR4221/K9","Altitude","0 – 6,560 ft."
-"ISR4000","Cisco 4221","ISR4221/K9","(China)","(0 – 2,000 m)"
-"ISR4000","Cisco 4221","ISR4221/K9","Altitude","0 – 10,000 ft."
-"ISR4000","Cisco 4221","ISR4221/K9","(Rest of the world)","(0 – 3,050 m)"
-"ISR4000","Cisco 4221","ISR4221/K9","Relative humidity","5% to 85%"
-"ISR4000","Cisco 4221","ISR4221/K9","Short-term humidity","5% to 90%, not to exceed 0.024 kg water/kg of dry air"
-"ISR4000","Cisco 4221","ISR4221/K9","Acoustics: Sound pressure (Typical/maximum)","28.5/53 dBA"
-"ISR4000","Cisco 4221","ISR4221/K9","Acoustics: Sound power (Typical/maximum)","41/68 dBA"
-"ISR4000","Cisco 4221","ISR4221/K9","Nonoperating Conditions","NA"
-"ISR4000","Cisco 4221","ISR4221/K9","Temperature","40º to 158ºF (-40º to 70ºC)"
-"ISR4000","Cisco 4221","ISR4221/K9","Relative humidity","5% to 95%"
-"ISR4000","Cisco 4221","ISR4221/K9","Altitude","15,584 ft (4750m)"
-"ISR4000","Cisco 4221","ISR4221/K9","Regulatory and Compliance","NA"
-"ISR4000","Cisco 4221","ISR4221/K9","Safety","UL 60950-1 CAN/CSA C22.2 No. 60950-1 EN 60950-1 AS/NZS 60950-1 IEC 60950-1 GB-4943"
-"ISR4000","Cisco 4221","ISR4221/K9","EMC","ICES-003 Class A EN55022 Class A CISPR22 Class A AS/NZS 3548 Class A VCCI V-3 CNS 13438 EN 300-386 EN 61000 (Immunity) EN 55024, CISPR 24 EN50082-1 KN22, KN24 "
-"ISR4000","Cisco 4221","ISR4221/K9","Telecom","TIA-968-B CS-03 ANSI T1.101 ITU-T G.823, G.824 IEEE 802.3 RTTE Directive Homologation requirements vary by country and interface type. For specific country information, refer to the online approvals data base at: http://www.ciscofax "
-"ISR4000","Cisco 4331","ISR4331/K9","Aggregate Throughput","100 Mbps to 300 Mbps"
-"ISR4000","Cisco 4331","ISR4331/K9","Total onboard WAN or LAN 10/100/1000 ports","3"
-"ISR4000","Cisco 4331","ISR4331/K9","RJ-45-based ports","2"
-"ISR4000","Cisco 4331","ISR4331/K9","SFP-based ports","2"
-"ISR4000","Cisco 4331","ISR4331/K9","Enhanced service-module slots","1"
-"ISR4000","Cisco 4331","ISR4331/K9","Doublewide service-module slots","0"
-"ISR4000","Cisco 4331","ISR4331/K9","NIM slots","2"
-"ISR4000","Cisco 4331","ISR4331/K9","OIR (all I/O modules)","Yes"
-"ISR4000","Cisco 4331","ISR4331/K9","Onboard ISC slot","1"
-"ISR4000","Cisco 4331","ISR4331/K9","Default memory double-data-rate 3 (DDR3) error-correction-code (ECC) DRAM (Combined control/services/data planes)","4 GB"
-"ISR4000","Cisco 4331","ISR4331/K9","Maximum memory DDR3 ECC DRAM (Combined control/services/data planes)","16 GB"
-"ISR4000","Cisco 4331","ISR4331/K9","Default memory DDR3 ECC DRAM (data plane)","NA"
-"ISR4000","Cisco 4331","ISR4331/K9","Maximum memory DDR3 ECC DRAM (data plane)","NA"
-"ISR4000","Cisco 4331","ISR4331/K9","Default memory DDR3 ECC DRAM (control/services plane)","NA"
-"ISR4000","Cisco 4331","ISR4331/K9","Maximum memory DDR3 ECC DRAM (control/services plane)","NA"
-"ISR4000","Cisco 4331","ISR4331/K9","Default flash memory","4 GB"
-"ISR4000","Cisco 4331","ISR4331/K9","Maximum flash memory","16 GB"
-"ISR4000","Cisco 4331","ISR4331/K9","External USB 2.0 slots (type A)","1"
-"ISR4000","Cisco 4331","ISR4331/K9","USB console port -type B mini (up to 115.2 kbps)","1"
-"ISR4000","Cisco 4331","ISR4331/K9","Serial console port - RJ45 (up to 115.2 kbps)","1"
-"ISR4000","Cisco 4331","ISR4331/K9","Serial auxiliary port - RJ45 (up to 115.2 kbps)","1"
-"ISR4000","Cisco 4331","ISR4331/K9","Power-supply options","Internal: AC and PoE"
-"ISR4000","Cisco 4331","ISR4331/K9","Redundant power supply","N/A"
-"ISR4000","Cisco 4331","ISR4331/K9","Power Specifications","NA"
-"ISR4000","Cisco 4331","ISR4331/K9","AC input voltage","100 to 240 VAC autoranging"
-"ISR4000","Cisco 4331","ISR4331/K9","AC input frequency","47 to 63 Hz"
-"ISR4000","Cisco 4331","ISR4331/K9","AC input current range, AC power supply (maximum)","3 to 1.3A"
-"ISR4000","Cisco 4331","ISR4331/K9","AC input surge current","60 A peak and less than 5 Arms per half cycle"
-"ISR4000","Cisco 4331","ISR4331/K9","Typical power (no modules) (watts)","42"
-"ISR4000","Cisco 4331","ISR4331/K9","Maximum power with AC power supply (watts)","250"
-"ISR4000","Cisco 4331","ISR4331/K9","Maximum power with PoE power supply (platform only) (watts)","530"
-"ISR4000","Cisco 4331","ISR4331/K9","Maximum endpoint PoE power available from PoE power supply (watts)","250"
-"ISR4000","Cisco 4331","ISR4331/K9","Maximum endpoint PoE power capacity with PoE boost (watts)","N/A"
-"ISR4000","Cisco 4331","ISR4331/K9","Sizes and Weights","NA"
-"ISR4000","Cisco 4331","ISR4331/K9","(H x W x D)","1.75 x 17.25 x 17.25 in (44.45 x 438.15 x 438.15 mm)"
-"ISR4000","Cisco 4331","ISR4331/K9","External Power Supply Dimensions (H x W x D)","N/A"
-"ISR4000","Cisco 4331","ISR4331/K9","(H x W x D)","7.125 x 22.75 x 22.5 in (180.98 x 577.85 x 571.5 mm)"
-"ISR4000","Cisco 4331","ISR4331/K9","Rack height","1 rack unit (1RU)"
-"ISR4000","Cisco 4331","ISR4331/K9","Rack-mount 19in. (48.3 cm) EIA","Included"
-"ISR4000","Cisco 4331","ISR4331/K9","Rack-mount 23in. (58.4 cm) EIA","Optional"
-"ISR4000","Cisco 4331","ISR4331/K9","Wall-mount","Yes"
-"ISR4000","Cisco 4331","ISR4331/K9","Weight with 1, 450-WAC power supply (no modules)","N/A"
-"ISR4000","Cisco 4331","ISR4331/K9","Weight with 1 1,000-WAC power supply+ 1 PoE power module (no other modules)","N/A"
-"ISR4000","Cisco 4331","ISR4331/K9","Weight with AC PS (no modules)","13.5 lb (6.2 kg)"
-"ISR4000","Cisco 4331","ISR4331/K9","Weight with AC PS with POE (no modules)","14.1 lb (6.4 kg)"
-"ISR4000","Cisco 4331","ISR4331/K9","Typical weight (fully loaded with modules)","16.1 lb (7.3 kg)"
-"ISR4000","Cisco 4331","ISR4331/K9","Packaging Weight","4.6 lb (2.1 kg)"
-"ISR4000","Cisco 4331","ISR4331/K9","Airflow","I/O side to bezel side"
-"ISR4000","Cisco 4331","ISR4331/K9","MTBF (Hours)","587250"
-"ISR4000","Cisco 4331","ISR4331/K9","Environmental Specifications","NA"
-"ISR4000","Cisco 4331","ISR4331/K9","Operating Conditions","NA"
-"ISR4000","Cisco 4331","ISR4331/K9","Temperature","32º to 104ºF (0º to 40ºC)"
-"ISR4000","Cisco 4331","ISR4331/K9","Altitude","0 – 6,560 ft."
-"ISR4000","Cisco 4331","ISR4331/K9","(China)","(0 – 2,000 m)"
-"ISR4000","Cisco 4331","ISR4331/K9","Altitude","0 – 10,000 ft."
-"ISR4000","Cisco 4331","ISR4331/K9","(Rest of the world)","(0 – 3,050 m)"
-"ISR4000","Cisco 4331","ISR4331/K9","Relative humidity","5% to 85%"
-"ISR4000","Cisco 4331","ISR4331/K9","Short-term humidity","5% to 90%, not to exceed 0.024 kg water/kg of dry air"
-"ISR4000","Cisco 4331","ISR4331/K9","Acoustics: Sound pressure (Typical/maximum)","52.8/74.8 dBA"
-"ISR4000","Cisco 4331","ISR4331/K9","Acoustics: Sound power (Typical/maximum)","61.2/81.6 dBA"
-"ISR4000","Cisco 4331","ISR4331/K9","Nonoperating Conditions","NA"
-"ISR4000","Cisco 4331","ISR4331/K9","Temperature","40º to 158ºF (-40º to 70ºC)"
-"ISR4000","Cisco 4331","ISR4331/K9","Relative humidity","5% to 95%"
-"ISR4000","Cisco 4331","ISR4331/K9","Altitude","15,584 ft (4750m)"
-"ISR4000","Cisco 4331","ISR4331/K9","Regulatory and Compliance","NA"
-"ISR4000","Cisco 4331","ISR4331/K9","Safety","UL 60950-1 CAN/CSA C22.2 No. 60950-1 EN 60950-1 AS/NZS 60950-1 IEC 60950-1 GB-4943 "
-"ISR4000","Cisco 4331","ISR4331/K9","EMC","47 CFR, Part 15 ICES-003 Class A EN55022 Class A CISPR22 Class A AS/NZS 3548 Class A VCCI V-3 CNS 13438 EN 300-386 EN 61000 (Immunity) EN 55024, CISPR 24 EN50082-1 KN22, KN24 "
-"ISR4000","Cisco 4331","ISR4331/K9","Telecom","TIA-968-B CS-03 ANSI T1.101 ITU-T G.823, G.824 IEEE 802.3 RTTE Directive Homologation requirements vary by country and interface type. For specific country information, refer to the online approvals data base at: http://www.ciscofax.com."
-"ISR4000","Cisco 4351","ISR4351/K9","Aggregate Throughput","200 Mbps to 400 Mbps"
-"ISR4000","Cisco 4351","ISR4351/K9","Total onboard WAN or LAN 10/100/1000 ports","3"
-"ISR4000","Cisco 4351","ISR4351/K9","RJ-45-based ports","3"
-"ISR4000","Cisco 4351","ISR4351/K9","SFP-based ports","3"
-"ISR4000","Cisco 4351","ISR4351/K9","Enhanced service-module slots","2"
-"ISR4000","Cisco 4351","ISR4351/K9","Doublewide service-module slots","1 (assumes no singlewide SM-X modules installed)"
-"ISR4000","Cisco 4351","ISR4351/K9","NIM slots","3"
-"ISR4000","Cisco 4351","ISR4351/K9","OIR (all I/O modules)","Yes"
-"ISR4000","Cisco 4351","ISR4351/K9","Onboard ISC slot","1"
-"ISR4000","Cisco 4351","ISR4351/K9","Default memory double-data-rate 3 (DDR3) error-correction-code (ECC) DRAM (Combined control/services/data planes)","4 GB"
-"ISR4000","Cisco 4351","ISR4351/K9","Maximum memory DDR3 ECC DRAM (Combined control/services/data planes)","16 GB"
-"ISR4000","Cisco 4351","ISR4351/K9","Default memory DDR3 ECC DRAM (data plane)","NA"
-"ISR4000","Cisco 4351","ISR4351/K9","Maximum memory DDR3 ECC DRAM (data plane)","NA"
-"ISR4000","Cisco 4351","ISR4351/K9","Default memory DDR3 ECC DRAM (control/services plane)","NA"
-"ISR4000","Cisco 4351","ISR4351/K9","Maximum memory DDR3 ECC DRAM (control/services plane)","NA"
-"ISR4000","Cisco 4351","ISR4351/K9","Default flash memory","4 GB"
-"ISR4000","Cisco 4351","ISR4351/K9","Maximum flash memory","16 GB"
-"ISR4000","Cisco 4351","ISR4351/K9","External USB 2.0 slots (type A)","2"
-"ISR4000","Cisco 4351","ISR4351/K9","USB console port -type B mini (up to 115.2 kbps)","1"
-"ISR4000","Cisco 4351","ISR4351/K9","Serial console port - RJ45 (up to 115.2 kbps)","1"
-"ISR4000","Cisco 4351","ISR4351/K9","Serial auxiliary port - RJ45 (up to 115.2 kbps)","1"
-"ISR4000","Cisco 4351","ISR4351/K9","Power-supply options","Internal: AC, DC (roadmap) and PoE"
-"ISR4000","Cisco 4351","ISR4351/K9","Redundant power supply","N/A"
-"ISR4000","Cisco 4351","ISR4351/K9","Power Specifications","NA"
-"ISR4000","Cisco 4351","ISR4351/K9","AC input voltage","100 to 240 VAC autoranging"
-"ISR4000","Cisco 4351","ISR4351/K9","AC input frequency","47 to 63 Hz"
-"ISR4000","Cisco 4351","ISR4351/K9","AC input current range, AC power supply (maximum)","7.1 to 3.0A"
-"ISR4000","Cisco 4351","ISR4351/K9","AC input surge current","60 A peak and less than 12 Arms per half cycle"
-"ISR4000","Cisco 4351","ISR4351/K9","Typical power (no modules) (watts)","48"
-"ISR4000","Cisco 4351","ISR4351/K9","Maximum power with AC power supply (watts)","430"
-"ISR4000","Cisco 4351","ISR4351/K9","Maximum power with PoE power supply (platform only) (watts)","990"
-"ISR4000","Cisco 4351","ISR4351/K9","Maximum endpoint PoE power available from PoE power supply (watts)","500"
-"ISR4000","Cisco 4351","ISR4351/K9","Maximum endpoint PoE power capacity with PoE boost (watts)","N/A"
-"ISR4000","Cisco 4351","ISR4351/K9","Sizes and Weights","NA"
-"ISR4000","Cisco 4351","ISR4351/K9","(H x W x D)","3.5 x 17.25 x 18.5 in (88.9 x 438.15 x 469.9 mm)"
-"ISR4000","Cisco 4351","ISR4351/K9","External Power Supply Dimensions (H x W x D)","N/A"
-"ISR4000","Cisco 4351","ISR4351/K9","(H x W x D)","9.75 x 22.25 x 26 in (24.76 x 56.51 x 66.04 mm)"
-"ISR4000","Cisco 4351","ISR4351/K9","Rack height","2 rack units (2RU)"
-"ISR4000","Cisco 4351","ISR4351/K9","Rack-mount 19in. (48.3 cm) EIA","Included"
-"ISR4000","Cisco 4351","ISR4351/K9","Rack-mount 23in. (58.4 cm) EIA","Optional"
-"ISR4000","Cisco 4351","ISR4351/K9","Wall-mount","No"
-"ISR4000","Cisco 4351","ISR4351/K9","Weight with 1, 450-WAC power supply (no modules)","28.8 lb (13.1 kg)"
-"ISR4000","Cisco 4351","ISR4351/K9","Weight with 1 1,000-WAC power supply+ 1 PoE power module (no other modules)","29.0 lb (13.2 kg)"
-"ISR4000","Cisco 4351","ISR4351/K9","Weight with AC PS (no modules)","N/A"
-"ISR4000","Cisco 4351","ISR4351/K9","Weight with AC PS with POE (no modules)","N/A"
-"ISR4000","Cisco 4351","ISR4351/K9","Typical weight (fully loaded with modules)","37.7 lb (17.1 kg)"
-"ISR4000","Cisco 4351","ISR4351/K9","Packaging Weight","6.4 lb (2.9 kg)"
-"ISR4000","Cisco 4351","ISR4351/K9","Airflow","I/O side to bezel side"
-"ISR4000","Cisco 4351","ISR4351/K9","MTBF (Hours)","566310"
-"ISR4000","Cisco 4351","ISR4351/K9","Environmental Specifications","NA"
-"ISR4000","Cisco 4351","ISR4351/K9","Operating Conditions","NA"
-"ISR4000","Cisco 4351","ISR4351/K9","Temperature","32º to 104ºF (0º to 40ºC)"
-"ISR4000","Cisco 4351","ISR4351/K9","Altitude","0 – 6,560 ft."
-"ISR4000","Cisco 4351","ISR4351/K9","(China)","(0 – 2,000 m)"
-"ISR4000","Cisco 4351","ISR4351/K9","Altitude","0 – 10,000 ft."
-"ISR4000","Cisco 4351","ISR4351/K9","(Rest of the world)","(0 – 3,050 m)"
-"ISR4000","Cisco 4351","ISR4351/K9","Relative humidity","5% to 85%"
-"ISR4000","Cisco 4351","ISR4351/K9","Short-term humidity","5% to 90%, not to exceed 0.024 kg water/kg of dry air"
-"ISR4000","Cisco 4351","ISR4351/K9","Acoustics: Sound pressure (Typical/maximum)","50.6/73.1 dBA"
-"ISR4000","Cisco 4351","ISR4351/K9","Acoustics: Sound power (Typical/maximum)","58.2/78.8 dBA"
-"ISR4000","Cisco 4351","ISR4351/K9","Nonoperating Conditions","NA"
-"ISR4000","Cisco 4351","ISR4351/K9","Temperature","40º to 158ºF (-40º to 70ºC)"
-"ISR4000","Cisco 4351","ISR4351/K9","Relative humidity","5% to 95%"
-"ISR4000","Cisco 4351","ISR4351/K9","Altitude","15,584 ft (4750m)"
-"ISR4000","Cisco 4351","ISR4351/K9","Regulatory and Compliance","NA"
-"ISR4000","Cisco 4351","ISR4351/K9","Safety","UL 60950-1 CAN/CSA C22.2 No. 60950-1 EN 60950-1 AS/NZS 60950-1 IEC 60950-1 GB-4943"
-"ISR4000","Cisco 4351","ISR4351/K9","EMC","47 CFR, Part 15 ICES-003 Class A EN55022 Class A CISPR22 Class A AS/NZS 3548 Class A VCCI V-3 CNS 13438 EN 300-386 EN 61000 (Immunity) EN 55024, CISPR 24 EN50082-1 KN22, KN24"
-"ISR4000","Cisco 4351","ISR4351/K9","Telecom","TIA-968-B CS-03 ANSI T1.101 ITU-T G.823, G.824 IEEE 802.3 RTTE Directive Homologation requirements vary by country and interface type. For specific country information, refer to the online approvals data base at: http://www.ciscofax.com."
-"UCS B200","UCSB-B200-M4-CH","UCSB-B200-M4-CH","Cisco UCS Virtual Interface Card (VIC) 1340","1200 Series VICs enable advanced networking features including Netflow for network statistics, and DPDK, USNIC for low latency computing applications. ●  1300 Series VICs include all of the 1200 Series features plus additional enhancements including network overlay offload support for NVGRE and VXLAN, and RoCE services. ●  2-port, 40 Gigabit Ethernet, Fibre Channel over Ethernet (FCoE)-capable modular LAN on motherboard (mLOM) mezzanine adapter. ●  2x ports - 40 Gbps Unified I/O ports or 2 sets of 4 x 10-Gbps unified I/O ports. ●  Delivers 80 Gbps total I/O throughput to the server"
-"UCS B200","UCSB-B200-M4-U","UCSB-B200-M4-U","Cisco UCS Virtual Interface Card (VIC) 1340","1200 Series VICs enable advanced networking features including Netflow for network statistics, and DPDK, USNIC for low latency computing applications. ●  1300 Series VICs include all of the 1200 Series features plus additional enhancements including network overlay offload support for NVGRE and VXLAN, and RoCE services. ●  2-port, 40 Gigabit Ethernet, Fibre Channel over Ethernet (FCoE)-capable modular LAN on motherboard (mLOM) mezzanine adapter. ●  2x ports - 40 Gbps Unified I/O ports or 2 sets of 4 x 10-Gbps unified I/O ports. ●  Delivers 80 Gbps total I/O throughput to the server"
-"UCS B200","UCSB-B200-M4-U-BR","UCSB-B200-M4-U-BR","Cisco UCS Virtual Interface Card (VIC) 1340","1200 Series VICs enable advanced networking features including Netflow for network statistics, and DPDK, USNIC for low latency computing applications. ●  1300 Series VICs include all of the 1200 Series features plus additional enhancements including network overlay offload support for NVGRE and VXLAN, and RoCE services. ●  2-port, 40 Gigabit Ethernet, Fibre Channel over Ethernet (FCoE)-capable modular LAN on motherboard (mLOM) mezzanine adapter. ●  2x ports - 40 Gbps Unified I/O ports or 2 sets of 4 x 10-Gbps unified I/O ports. ●  Delivers 80 Gbps total I/O throughput to the server"
-"UCS B200","UCSB-B200-M4=","UCSB-B200-M4=","Cisco UCS Virtual Interface Card (VIC) 1340","1200 Series VICs enable advanced networking features including Netflow for network statistics, and DPDK, USNIC for low latency computing applications. ●  1300 Series VICs include all of the 1200 Series features plus additional enhancements including network overlay offload support for NVGRE and VXLAN, and RoCE services. ●  2-port, 40 Gigabit Ethernet, Fibre Channel over Ethernet (FCoE)-capable modular LAN on motherboard (mLOM) mezzanine adapter. ●  2x ports - 40 Gbps Unified I/O ports or 2 sets of 4 x 10-Gbps unified I/O ports. ●  Delivers 80 Gbps total I/O throughput to the server"
-"UCS B200","UCSB-HS-EP-M4-F","UCSB-HS-EP-M4-F","Cisco UCS Virtual Interface Card (VIC) 1340","1200 Series VICs enable advanced networking features including Netflow for network statistics, and DPDK, USNIC for low latency computing applications. ●  1300 Series VICs include all of the 1200 Series features plus additional enhancements including network overlay offload support for NVGRE and VXLAN, and RoCE services. ●  2-port, 40 Gigabit Ethernet, Fibre Channel over Ethernet (FCoE)-capable modular LAN on motherboard (mLOM) mezzanine adapter. ●  2x ports - 40 Gbps Unified I/O ports or 2 sets of 4 x 10-Gbps unified I/O ports. ●  Delivers 80 Gbps total I/O throughput to the server"
-"UCS B200","UCSB-HS-EP-M4-F=","UCSB-HS-EP-M4-F=","Cisco UCS Virtual Interface Card (VIC) 1340","1200 Series VICs enable advanced networking features including Netflow for network statistics, and DPDK, USNIC for low latency computing applications. ●  1300 Series VICs include all of the 1200 Series features plus additional enhancements including network overlay offload support for NVGRE and VXLAN, and RoCE services. ●  2-port, 40 Gigabit Ethernet, Fibre Channel over Ethernet (FCoE)-capable modular LAN on motherboard (mLOM) mezzanine adapter. ●  2x ports - 40 Gbps Unified I/O ports or 2 sets of 4 x 10-Gbps unified I/O ports. ●  Delivers 80 Gbps total I/O throughput to the server"
-"UCS B200","UCSB-HS-EP-M4-R","UCSB-HS-EP-M4-R","Cisco UCS Virtual Interface Card (VIC) 1340","1200 Series VICs enable advanced networking features including Netflow for network statistics, and DPDK, USNIC for low latency computing applications. ●  1300 Series VICs include all of the 1200 Series features plus additional enhancements including network overlay offload support for NVGRE and VXLAN, and RoCE services. ●  2-port, 40 Gigabit Ethernet, Fibre Channel over Ethernet (FCoE)-capable modular LAN on motherboard (mLOM) mezzanine adapter. ●  2x ports - 40 Gbps Unified I/O ports or 2 sets of 4 x 10-Gbps unified I/O ports. ●  Delivers 80 Gbps total I/O throughput to the server"
-"UCS B200","UCSB-HS-EP-M4-R=","UCSB-HS-EP-M4-R=","Cisco UCS Virtual Interface Card (VIC) 1340","1200 Series VICs enable advanced networking features including Netflow for network statistics, and DPDK, USNIC for low latency computing applications. ●  1300 Series VICs include all of the 1200 Series features plus additional enhancements including network overlay offload support for NVGRE and VXLAN, and RoCE services. ●  2-port, 40 Gigabit Ethernet, Fibre Channel over Ethernet (FCoE)-capable modular LAN on motherboard (mLOM) mezzanine adapter. ●  2x ports - 40 Gbps Unified I/O ports or 2 sets of 4 x 10-Gbps unified I/O ports. ●  Delivers 80 Gbps total I/O throughput to the server"
-"N9300","Cisco Nexus 9372TX","N9K-C9372TX","Advanced optics","Cisco offers a pluggable 40 Gigabit Ethernet QSFP+ transceiver that enables customers to use existing 10 Gigabit Ethernet data center cabling to support 40 Gigabit Ethernet connectivity. This technology facilitates adoption of 40 Gigabit Ethernet with no cable infrastructure upgrade cost."
-"N9300","Cisco Nexus 9372TX","N9K-C9372TX","Maximum number of longest prefix match (LPM) routes","128,000*"
-"N9300","Cisco Nexus 9372TX","N9K-C9372TX","Maximum number of IP host entries","208,000*"
-"N9300","Cisco Nexus 9372TX","N9K-C9372TX","Maximum number of MAC address entries","96,000*"
-"N9300","Cisco Nexus 9372TX","N9K-C9372TX","Number of multicast routes"," 32,000 (without virtual PortChannel [vPC])  32,000 (with vPC)"
-"N9300","Cisco Nexus 9372TX","N9K-C9372TX","Number of Interior Gateway Management Protocol (IGMP) snooping groups"," 32,000 (without vPC)  32,000 (with vPC)"
-"N9300","Cisco Nexus 9372TX","N9K-C9372TX","Maximum number of Cisco Nexus 2000 Series Fabric Extenders per switch","16"
-"N9300","Cisco Nexus 9372TX","N9K-C9372TX","Number of access control list (ACL) entries"," 4000 ingress  1000 egress"
-"N9300","Cisco Nexus 9372TX","N9K-C9372TX","Maximum number of VLANs","4096"
-"N9300","Cisco Nexus 9372TX","N9K-C9372TX","Maximum number of Virtual Routing and Forwarding (VRF) instances","1000"
-"N9300","Cisco Nexus 9372TX","N9K-C9372TX","Maximum number of links in a PortChannel","32"
-"N9300","Cisco Nexus 9372TX","N9K-C9372TX","Maximum number of ECMP paths","64"
-"N9300","Cisco Nexus 9372TX","N9K-C9372TX","Maximum number of PortChannels","528"
-"N9300","Cisco Nexus 9372TX","N9K-C9372TX","Number of active SPAN sessions","4"
-"N9300","Cisco Nexus 9372TX","N9K-C9372TX","Maximum number of Rapid per-VLAN Spanning Tree (RPVST) instances","507"
-"N9300","Cisco Nexus 9372TX","N9K-C9372TX","Maximum number of Hot-Standby Router Protocol (HSRP) groups","490"
-"N9300","Cisco Nexus 9372TX","N9K-C9372TX","Maximum number of Multiple Spanning Tree (MST) instances","64"
-"N9300","Cisco Nexus 9372TX","N9K-C9372TX","Maximum number of VXLAN tunnel endpoints (VTEP)","256"
-"N9300","Cisco Nexus 9372TX-E","N9K-C9372TX-E","Predictable high performance","Latency of 1 to 2 microseconds with up to 1.28 Tbps of bandwidth enables customers to build a robust switch fabric scaling from as few as 200 10-Gbps server ports to more than 200,000 10-Gbps server ports."
-"N9300","Cisco Nexus 9372TX-E","N9K-C9372TX-E","Increased integrated buffer space","Up to a total of 50 MB of integrated shared buffer space allows better management of speed mismatch between access and uplink ports."
-"N9300","Cisco Nexus 9372TX-E","N9K-C9372TX-E","Designed for availability","Hot-swappable, redundant power supplies and fan trays increase availability."
-"N9300","Cisco Nexus 9372TX-E","N9K-C9372TX-E","Flexible airflow configuration","Port-side intake and port-side exhaust airflow configurations are both supported."
-"N9300","Cisco Nexus 9372TX-E","N9K-C9372TX-E","CPU, SSD, and memory","Dual-core 2.5-GHz x86 CPUs with 64-GB SSD drive and 16 GB of memory provide enhanced network performance."
-"N9300","Cisco Nexus 9372TX-E","N9K-C9372TX-E","Power efficiency","All Cisco Nexus 9000 Series power supplies are 80 Plus Platinum rated."
-"N9300","Cisco Nexus 9372TX-E","N9K-C9372TX-E","Advanced optics","Cisco offers a pluggable 40 Gigabit Ethernet QSFP+ transceiver that enables customers to use existing 10 Gigabit Ethernet data center cabling to support 40 Gigabit Ethernet connectivity. This technology facilitates adoption of 40 Gigabit Ethernet with no cable infrastructure upgrade cost."
-"N9300","Cisco Nexus 9372TX-E","N9K-C9372TX-E","Maximum number of longest prefix match (LPM) routes","128,000*"
-"N9300","Cisco Nexus 9372TX-E","N9K-C9372TX-E","Maximum number of IP host entries","208,000*"
-"N9300","Cisco Nexus 9372TX-E","N9K-C9372TX-E","Maximum number of MAC address entries","96,000*"
-"N9300","Cisco Nexus 9372TX-E","N9K-C9372TX-E","Number of multicast routes"," 32,000 (without virtual PortChannel [vPC])  32,000 (with vPC)"
-"N9300","Cisco Nexus 9372TX-E","N9K-C9372TX-E","Number of Interior Gateway Management Protocol (IGMP) snooping groups"," 32,000 (without vPC)  32,000 (with vPC)"
-"N9300","Cisco Nexus 9372TX-E","N9K-C9372TX-E","Maximum number of Cisco Nexus 2000 Series Fabric Extenders per switch","16"
-"N9300","Cisco Nexus 9372TX-E","N9K-C9372TX-E","Number of access control list (ACL) entries"," 4000 ingress  1000 egress"
-"N9300","Cisco Nexus 9372TX-E","N9K-C9372TX-E","Maximum number of VLANs","4096"
-"N9300","Cisco Nexus 9372TX-E","N9K-C9372TX-E","Maximum number of Virtual Routing and Forwarding (VRF) instances","1000"
-"N9300","Cisco Nexus 9372TX-E","N9K-C9372TX-E","Maximum number of links in a PortChannel","32"
-"N9300","Cisco Nexus 9372TX-E","N9K-C9372TX-E","Maximum number of ECMP paths","64"
-"N9300","Cisco Nexus 9372TX-E","N9K-C9372TX-E","Maximum number of PortChannels","528"
-"N9300","Cisco Nexus 9372TX-E","N9K-C9372TX-E","Number of active SPAN sessions","4"
-"N9300","Cisco Nexus 9372TX-E","N9K-C9372TX-E","Maximum number of Rapid per-VLAN Spanning Tree (RPVST) instances","507"
-"N9300","Cisco Nexus 9372TX-E","N9K-C9372TX-E","Maximum number of Hot-Standby Router Protocol (HSRP) groups","490"
-"N9300","Cisco Nexus 9372TX-E","N9K-C9372TX-E","Maximum number of Multiple Spanning Tree (MST) instances","64"
-"N9300","Cisco Nexus 9372TX-E","N9K-C9372TX-E","Maximum number of VXLAN tunnel endpoints (VTEP)","256"
-"N9300","Cisco Nexus 9396PX","N9K-C9396PX","Predictable high performance","Latency of 1 to 2 microseconds with up to 1.28 Tbps of bandwidth enables customers to build a robust switch fabric scaling from as few as 200 10-Gbps server ports to more than 200,000 10-Gbps server ports."
-"N9300","Cisco Nexus 9396PX","N9K-C9396PX","Increased integrated buffer space","Up to a total of 50 MB of integrated shared buffer space allows better management of speed mismatch between access and uplink ports."
-"N9300","Cisco Nexus 9396PX","N9K-C9396PX","Designed for availability","Hot-swappable, redundant power supplies and fan trays increase availability."
-"N9300","Cisco Nexus 9396PX","N9K-C9396PX","Flexible airflow configuration","Port-side intake and port-side exhaust airflow configurations are both supported."
-"N9300","Cisco Nexus 9396PX","N9K-C9396PX","CPU, SSD, and memory","Dual-core 2.5-GHz x86 CPUs with 64-GB SSD drive and 16 GB of memory provide enhanced network performance."
-"N9300","Cisco Nexus 9396PX","N9K-C9396PX","Power efficiency","All Cisco Nexus 9000 Series power supplies are 80 Plus Platinum rated."
-"N9300","Cisco Nexus 9396PX","N9K-C9396PX","Advanced optics","Cisco offers a pluggable 40 Gigabit Ethernet QSFP+ transceiver that enables customers to use existing 10 Gigabit Ethernet data center cabling to support 40 Gigabit Ethernet connectivity. This technology facilitates adoption of 40 Gigabit Ethernet with no cable infrastructure upgrade cost."
-"N9300","Cisco Nexus 9396PX","N9K-C9396PX","Maximum number of longest prefix match (LPM) routes","128,000*"
-"N9300","Cisco Nexus 9396PX","N9K-C9396PX","Maximum number of IP host entries","208,000*"
-"N9300","Cisco Nexus 9396PX","N9K-C9396PX","Maximum number of MAC address entries","96,000*"
-"N9300","Cisco Nexus 9396PX","N9K-C9396PX","Number of multicast routes"," 32,000 (without virtual PortChannel [vPC])  32,000 (with vPC)"
-"N9300","Cisco Nexus 9396PX","N9K-C9396PX","Number of Interior Gateway Management Protocol (IGMP) snooping groups"," 32,000 (without vPC)  32,000 (with vPC)"
-"N9300","Cisco Nexus 9396PX","N9K-C9396PX","Maximum number of Cisco Nexus 2000 Series Fabric Extenders per switch","16"
-"N9300","Cisco Nexus 9396PX","N9K-C9396PX","Number of access control list (ACL) entries"," 4000 ingress  1000 egress"
-"N9300","Cisco Nexus 9396PX","N9K-C9396PX","Maximum number of VLANs","4096"
-"N9300","Cisco Nexus 9396PX","N9K-C9396PX","Maximum number of Virtual Routing and Forwarding (VRF) instances","1000"
-"N9300","Cisco Nexus 9396PX","N9K-C9396PX","Maximum number of links in a PortChannel","32"
-"N9300","Cisco Nexus 9396PX","N9K-C9396PX","Maximum number of ECMP paths","64"
-"N9300","Cisco Nexus 9396PX","N9K-C9396PX","Maximum number of PortChannels","528"
-"N9300","Cisco Nexus 9396PX","N9K-C9396PX","Number of active SPAN sessions","4"
-"N9300","Cisco Nexus 9396PX","N9K-C9396PX","Maximum number of Rapid per-VLAN Spanning Tree (RPVST) instances","507"
-"N9300","Cisco Nexus 9396PX","N9K-C9396PX","Maximum number of Hot-Standby Router Protocol (HSRP) groups","490"
-"N9300","Cisco Nexus 9396PX","N9K-C9396PX","Maximum number of Multiple Spanning Tree (MST) instances","64"
-"N9300","Cisco Nexus 9396PX","N9K-C9396PX","Maximum number of VXLAN tunnel endpoints (VTEP)","256"
-"N9300","Cisco Nexus 9396TX","N9K-C9396TX","Predictable high performance","Latency of 1 to 2 microseconds with up to 1.28 Tbps of bandwidth enables customers to build a robust switch fabric scaling from as few as 200 10-Gbps server ports to more than 200,000 10-Gbps server ports."
-"N9300","Cisco Nexus 9396TX","N9K-C9396TX","Increased integrated buffer space","Up to a total of 50 MB of integrated shared buffer space allows better management of speed mismatch between access and uplink ports."
-"N9300","Cisco Nexus 9396TX","N9K-C9396TX","Designed for availability","Hot-swappable, redundant power supplies and fan trays increase availability."
-"N9300","Cisco Nexus 9396TX","N9K-C9396TX","Flexible airflow configuration","Port-side intake and port-side exhaust airflow configurations are both supported."
-"N9300","Cisco Nexus 9396TX","N9K-C9396TX","CPU, SSD, and memory","Dual-core 2.5-GHz x86 CPUs with 64-GB SSD drive and 16 GB of memory provide enhanced network performance."
-"N9300","Cisco Nexus 9396TX","N9K-C9396TX","Power efficiency","All Cisco Nexus 9000 Series power supplies are 80 Plus Platinum rated."
-"N9300","Cisco Nexus 9396TX","N9K-C9396TX","Advanced optics","Cisco offers a pluggable 40 Gigabit Ethernet QSFP+ transceiver that enables customers to use existing 10 Gigabit Ethernet data center cabling to support 40 Gigabit Ethernet connectivity. This technology facilitates adoption of 40 Gigabit Ethernet with no cable infrastructure upgrade cost."
-"N9300","Cisco Nexus 9396TX","N9K-C9396TX","Maximum number of longest prefix match (LPM) routes","128,000*"
-"N9300","Cisco Nexus 9396TX","N9K-C9396TX","Maximum number of IP host entries","208,000*"
-"N9300","Cisco Nexus 9396TX","N9K-C9396TX","Maximum number of MAC address entries","96,000*"
-"N9300","Cisco Nexus 9396TX","N9K-C9396TX","Number of multicast routes"," 32,000 (without virtual PortChannel [vPC])  32,000 (with vPC)"
-"N9300","Cisco Nexus 9396TX","N9K-C9396TX","Number of Interior Gateway Management Protocol (IGMP) snooping groups"," 32,000 (without vPC)  32,000 (with vPC)"
-"N9300","Cisco Nexus 9396TX","N9K-C9396TX","Maximum number of Cisco Nexus 2000 Series Fabric Extenders per switch","16"
-"N9300","Cisco Nexus 9396TX","N9K-C9396TX","Number of access control list (ACL) entries"," 4000 ingress  1000 egress"
-"N9300","Cisco Nexus 9396TX","N9K-C9396TX","Maximum number of VLANs","4096"
-"N9300","Cisco Nexus 9396TX","N9K-C9396TX","Maximum number of Virtual Routing and Forwarding (VRF) instances","1000"
-"N9300","Cisco Nexus 9396TX","N9K-C9396TX","Maximum number of links in a PortChannel","32"
-"N9300","Cisco Nexus 9396TX","N9K-C9396TX","Maximum number of ECMP paths","64"
-"N9300","Cisco Nexus 9396TX","N9K-C9396TX","Maximum number of PortChannels","528"
-"N9300","Cisco Nexus 9396TX","N9K-C9396TX","Number of active SPAN sessions","4"
-"N9300","Cisco Nexus 9396TX","N9K-C9396TX","Maximum number of Rapid per-VLAN Spanning Tree (RPVST) instances","507"
-"N9300","Cisco Nexus 9396TX","N9K-C9396TX","Maximum number of Hot-Standby Router Protocol (HSRP) groups","490"
-"N9300","Cisco Nexus 9396TX","N9K-C9396TX","Maximum number of Multiple Spanning Tree (MST) instances","64"
-"N9300","Cisco Nexus 9396TX","N9K-C9396TX","Maximum number of VXLAN tunnel endpoints (VTEP)","256"
-"N9300","Cisco Nexus 93120TX","N9K-C93120TX","Predictable high performance","Latency of 1 to 2 microseconds with up to 1.28 Tbps of bandwidth enables customers to build a robust switch fabric scaling from as few as 200 10-Gbps server ports to more than 200,000 10-Gbps server ports."
-"N9300","Cisco Nexus 93120TX","N9K-C93120TX","Increased integrated buffer space","Up to a total of 50 MB of integrated shared buffer space allows better management of speed mismatch between access and uplink ports."
-"N9300","Cisco Nexus 93120TX","N9K-C93120TX","Designed for availability","Hot-swappable, redundant power supplies and fan trays increase availability."
-"N9300","Cisco Nexus 93120TX","N9K-C93120TX","Flexible airflow configuration","Port-side intake and port-side exhaust airflow configurations are both supported."
-"N9300","Cisco Nexus 93120TX","N9K-C93120TX","CPU, SSD, and memory","Dual-core 2.5-GHz x86 CPUs with 64-GB SSD drive and 16 GB of memory provide enhanced network performance."
-"N9300","Cisco Nexus 93120TX","N9K-C93120TX","Power efficiency","All Cisco Nexus 9000 Series power supplies are 80 Plus Platinum rated."
-"N9300","Cisco Nexus 93120TX","N9K-C93120TX","Advanced optics","Cisco offers a pluggable 40 Gigabit Ethernet QSFP+ transceiver that enables customers to use existing 10 Gigabit Ethernet data center cabling to support 40 Gigabit Ethernet connectivity. This technology facilitates adoption of 40 Gigabit Ethernet with no cable infrastructure upgrade cost."
-"N9300","Cisco Nexus 93120TX","N9K-C93120TX","Maximum number of longest prefix match (LPM) routes","128,000*"
-"N9300","Cisco Nexus 93120TX","N9K-C93120TX","Maximum number of IP host entries","208,000*"
-"N9300","Cisco Nexus 93120TX","N9K-C93120TX","Maximum number of MAC address entries","96,000*"
-"N9300","Cisco Nexus 93120TX","N9K-C93120TX","Number of multicast routes"," 32,000 (without virtual PortChannel [vPC])  32,000 (with vPC)"
-"N9300","Cisco Nexus 93120TX","N9K-C93120TX","Number of Interior Gateway Management Protocol (IGMP) snooping groups"," 32,000 (without vPC)  32,000 (with vPC)"
-"N9300","Cisco Nexus 93120TX","N9K-C93120TX","Maximum number of Cisco Nexus 2000 Series Fabric Extenders per switch","16"
-"N9300","Cisco Nexus 93120TX","N9K-C93120TX","Number of access control list (ACL) entries"," 4000 ingress  1000 egress"
-"N9300","Cisco Nexus 93120TX","N9K-C93120TX","Maximum number of VLANs","4096"
-"N9300","Cisco Nexus 93120TX","N9K-C93120TX","Maximum number of Virtual Routing and Forwarding (VRF) instances","1000"
-"N9300","Cisco Nexus 93120TX","N9K-C93120TX","Maximum number of links in a PortChannel","32"
-"N9300","Cisco Nexus 93120TX","N9K-C93120TX","Maximum number of ECMP paths","64"
-"N9300","Cisco Nexus 93120TX","N9K-C93120TX","Maximum number of PortChannels","528"
-"N9300","Cisco Nexus 93120TX","N9K-C93120TX","Number of active SPAN sessions","4"
-"N9300","Cisco Nexus 93120TX","N9K-C93120TX","Maximum number of Rapid per-VLAN Spanning Tree (RPVST) instances","507"
-"N9300","Cisco Nexus 93120TX","N9K-C93120TX","Maximum number of Hot-Standby Router Protocol (HSRP) groups","490"
-"N9300","Cisco Nexus 93120TX","N9K-C93120TX","Maximum number of Multiple Spanning Tree (MST) instances","64"
-"N9300","Cisco Nexus 93120TX","N9K-C93120TX","Maximum number of VXLAN tunnel endpoints (VTEP)","256"
-"N9300","Cisco Nexus 93128TX","N9K-C93128TX","Predictable high performance","Latency of 1 to 2 microseconds with up to 1.28 Tbps of bandwidth enables customers to build a robust switch fabric scaling from as few as 200 10-Gbps server ports to more than 200,000 10-Gbps server ports."
-"N9300","Cisco Nexus 93128TX","N9K-C93128TX","Increased integrated buffer space","Up to a total of 50 MB of integrated shared buffer space allows better management of speed mismatch between access and uplink ports."
-"N9300","Cisco Nexus 93128TX","N9K-C93128TX","Designed for availability","Hot-swappable, redundant power supplies and fan trays increase availability."
-"N9300","Cisco Nexus 93128TX","N9K-C93128TX","Flexible airflow configuration","Port-side intake and port-side exhaust airflow configurations are both supported."
-"N9300","Cisco Nexus 93128TX","N9K-C93128TX","CPU, SSD, and memory","Dual-core 2.5-GHz x86 CPUs with 64-GB SSD drive and 16 GB of memory provide enhanced network performance."
-"N9300","Cisco Nexus 93128TX","N9K-C93128TX","Power efficiency","All Cisco Nexus 9000 Series power supplies are 80 Plus Platinum rated."
-"N9300","Cisco Nexus 93128TX","N9K-C93128TX","Advanced optics","Cisco offers a pluggable 40 Gigabit Ethernet QSFP+ transceiver that enables customers to use existing 10 Gigabit Ethernet data center cabling to support 40 Gigabit Ethernet connectivity. This technology facilitates adoption of 40 Gigabit Ethernet with no cable infrastructure upgrade cost."
-"N9300","Cisco Nexus 93128TX","N9K-C93128TX","Maximum number of longest prefix match (LPM) routes","128,000*"
-"N9300","Cisco Nexus 93128TX","N9K-C93128TX","Maximum number of IP host entries","208,000*"
-"N9300","Cisco Nexus 93128TX","N9K-C93128TX","Maximum number of MAC address entries","96,000*"
-"N9300","Cisco Nexus 93128TX","N9K-C93128TX","Number of multicast routes"," 32,000 (without virtual PortChannel [vPC])  32,000 (with vPC)"
-"N9300","Cisco Nexus 93128TX","N9K-C93128TX","Number of Interior Gateway Management Protocol (IGMP) snooping groups"," 32,000 (without vPC)  32,000 (with vPC)"
-"N9300","Cisco Nexus 93128TX","N9K-C93128TX","Maximum number of Cisco Nexus 2000 Series Fabric Extenders per switch","16"
-"N9300","Cisco Nexus 93128TX","N9K-C93128TX","Number of access control list (ACL) entries"," 4000 ingress  1000 egress"
-"N9300","Cisco Nexus 93128TX","N9K-C93128TX",""," 1000 egress"
-"N9300","Cisco Nexus 93128TX","N9K-C93128TX","Maximum number of Virtual Routing and Forwarding (VRF) instances","1000"
-"N9300","Cisco Nexus 93128TX","N9K-C93128TX","Maximum number of links in a PortChannel","32"
-"N9300","Cisco Nexus 93128TX","N9K-C93128TX","Maximum number of ECMP paths","64"
-"N9300","Cisco Nexus 93128TX","N9K-C93128TX","Maximum number of PortChannels","528"
-"N9300","Cisco Nexus 93128TX","N9K-C93128TX","Number of active SPAN sessions","4"
-"N9300","Cisco Nexus 93128TX","N9K-C93128TX","Maximum number of Rapid per-VLAN Spanning Tree (RPVST) instances","507"
-"N9300","Cisco Nexus 93128TX","N9K-C93128TX","Maximum number of Hot-Standby Router Protocol (HSRP) groups","490"
-"N9300","Cisco Nexus 93128TX","N9K-C93128TX","Maximum number of Multiple Spanning Tree (MST) instances","64"
-"N9300","Cisco Nexus 93128TX","N9K-C93128TX","Maximum number of VXLAN tunnel endpoints (VTEP)","256"
-"N9300","Cisco Nexus 9332PQ","N9K-C9332PQ","Predictable high performance","Latency of 1 to 2 microseconds with up to 1.28 Tbps of bandwidth enables customers to build a robust switch fabric scaling from as few as 200 10-Gbps server ports to more than 200,000 10-Gbps server ports."
-"N9300","Cisco Nexus 9332PQ","N9K-C9332PQ","Increased integrated buffer space","Up to a total of 50 MB of integrated shared buffer space allows better management of speed mismatch between access and uplink ports."
-"N9300","Cisco Nexus 9332PQ","N9K-C9332PQ","Designed for availability","Hot-swappable, redundant power supplies and fan trays increase availability."
-"N9300","Cisco Nexus 9332PQ","N9K-C9332PQ","Flexible airflow configuration","Port-side intake and port-side exhaust airflow configurations are both supported."
-"N9300","Cisco Nexus 9332PQ","N9K-C9332PQ","CPU, SSD, and memory","Dual-core 2.5-GHz x86 CPUs with 64-GB SSD drive and 16 GB of memory provide enhanced network performance."
-"N9300","Cisco Nexus 9332PQ","N9K-C9332PQ","Power efficiency","All Cisco Nexus 9000 Series power supplies are 80 Plus Platinum rated."
-"N9300","Cisco Nexus 9332PQ","N9K-C9332PQ","Advanced optics","Cisco offers a pluggable 40 Gigabit Ethernet QSFP+ transceiver that enables customers to use existing 10 Gigabit Ethernet data center cabling to support 40 Gigabit Ethernet connectivity. This technology facilitates adoption of 40 Gigabit Ethernet with no cable infrastructure upgrade cost."
-"N9300","Cisco Nexus 9332PQ","N9K-C9332PQ","Maximum number of longest prefix match (LPM) routes","128,000*"
-"N9300","Cisco Nexus 9332PQ","N9K-C9332PQ","Maximum number of IP host entries","208,000*"
-"N9300","Cisco Nexus 9332PQ","N9K-C9332PQ","Maximum number of MAC address entries","96,000*"
-"N9300","Cisco Nexus 9332PQ","N9K-C9332PQ","Number of multicast routes"," 32,000 (without virtual PortChannel [vPC])  32,000 (with vPC)"
-"N9300","Cisco Nexus 9332PQ","N9K-C9332PQ","Number of Interior Gateway Management Protocol (IGMP) snooping groups"," 32,000 (without vPC)  32,000 (with vPC)"
-"N9300","Cisco Nexus 9332PQ","N9K-C9332PQ","Maximum number of Cisco Nexus 2000 Series Fabric Extenders per switch","16"
-"N9300","Cisco Nexus 9332PQ","N9K-C9332PQ","Number of access control list (ACL) entries"," 4000 ingress  1000 egress"
-"N9300","Cisco Nexus 9332PQ","N9K-C9332PQ","Maximum number of VLANs","4096"
-"N9300","Cisco Nexus 9332PQ","N9K-C9332PQ","Maximum number of Virtual Routing and Forwarding (VRF) instances","1000"
-"N9300","Cisco Nexus 9332PQ","N9K-C9332PQ","Maximum number of links in a PortChannel","32"
-"N9300","Cisco Nexus 9332PQ","N9K-C9332PQ","Maximum number of ECMP paths","64"
-"N9300","Cisco Nexus 9332PQ","N9K-C9332PQ","Maximum number of PortChannels","528"
-"N9300","Cisco Nexus 9332PQ","N9K-C9332PQ","Number of active SPAN sessions","4"
-"N9300","Cisco Nexus 9332PQ","N9K-C9332PQ","Maximum number of Rapid per-VLAN Spanning Tree (RPVST) instances","507"
-"N9300","Cisco Nexus 9332PQ","N9K-C9332PQ","Maximum number of Hot-Standby Router Protocol (HSRP) groups","490"
-"N9300","Cisco Nexus 9332PQ","N9K-C9332PQ","Maximum number of Multiple Spanning Tree (MST) instances","64"
-"N9300","Cisco Nexus 9332PQ","N9K-C9332PQ","Maximum number of VXLAN tunnel endpoints (VTEP)","256"
-"N9300","Cisco Nexus 9372PX","N9K-C9372PX","Predictable high performance","Latency of 1 to 2 microseconds with up to 1.28 Tbps of bandwidth enables customers to build a robust switch fabric scaling from as few as 200 10-Gbps server ports to more than 200,000 10-Gbps server ports."
-"N9300","Cisco Nexus 9372PX","N9K-C9372PX","Increased integrated buffer space","Up to a total of 50 MB of integrated shared buffer space allows better management of speed mismatch between access and uplink ports."
-"N9300","Cisco Nexus 9372PX","N9K-C9372PX","Designed for availability","Hot-swappable, redundant power supplies and fan trays increase availability."
-"N9300","Cisco Nexus 9372PX","N9K-C9372PX","Flexible airflow configuration","Port-side intake and port-side exhaust airflow configurations are both supported."
-"N9300","Cisco Nexus 9372PX","N9K-C9372PX","CPU, SSD, and memory","Dual-core 2.5-GHz x86 CPUs with 64-GB SSD drive and 16 GB of memory provide enhanced network performance."
-"N9300","Cisco Nexus 9372PX","N9K-C9372PX","Power efficiency","All Cisco Nexus 9000 Series power supplies are 80 Plus Platinum rated."
-"N9300","Cisco Nexus 9372PX","N9K-C9372PX","Advanced optics","Cisco offers a pluggable 40 Gigabit Ethernet QSFP+ transceiver that enables customers to use existing 10 Gigabit Ethernet data center cabling to support 40 Gigabit Ethernet connectivity. This technology facilitates adoption of 40 Gigabit Ethernet with no cable infrastructure upgrade cost."
-"N9300","Cisco Nexus 9372PX","N9K-C9372PX","Maximum number of longest prefix match (LPM) routes","128,000*"
-"N9300","Cisco Nexus 9372PX","N9K-C9372PX","Maximum number of IP host entries","208,000*"
-"N9300","Cisco Nexus 9372PX","N9K-C9372PX","Maximum number of MAC address entries","96,000*"
-"N9300","Cisco Nexus 9372PX","N9K-C9372PX","Number of multicast routes"," 32,000 (without virtual PortChannel [vPC])  32,000 (with vPC)"
-"N9300","Cisco Nexus 9372PX","N9K-C9372PX","Number of Interior Gateway Management Protocol (IGMP) snooping groups"," 32,000 (without vPC)  32,000 (with vPC)"
-"N9300","Cisco Nexus 9372PX","N9K-C9372PX","Maximum number of Cisco Nexus 2000 Series Fabric Extenders per switch","16"
-"N9300","Cisco Nexus 9372PX","N9K-C9372PX","Number of access control list (ACL) entries"," 4000 ingress  1000 egress"
-"N9300","Cisco Nexus 9372PX","N9K-C9372PX","Maximum number of VLANs","4096"
-"N9300","Cisco Nexus 9372PX","N9K-C9372PX","Maximum number of Virtual Routing and Forwarding (VRF) instances","1000"
-"N9300","Cisco Nexus 9372PX","N9K-C9372PX","Maximum number of links in a PortChannel","32"
-"N9300","Cisco Nexus 9372PX","N9K-C9372PX","Maximum number of ECMP paths","64"
-"N9300","Cisco Nexus 9372PX","N9K-C9372PX","Maximum number of PortChannels","528"
-"N9300","Cisco Nexus 9372PX","N9K-C9372PX","Number of active SPAN sessions","4"
-"N9300","Cisco Nexus 9372PX","N9K-C9372PX","Maximum number of Rapid per-VLAN Spanning Tree (RPVST) instances","507"
-"N9300","Cisco Nexus 9372PX","N9K-C9372PX","Maximum number of Hot-Standby Router Protocol (HSRP) groups","490"
-"N9300","Cisco Nexus 9372PX","N9K-C9372PX","Maximum number of Multiple Spanning Tree (MST) instances","64"
-"N9300","Cisco Nexus 9372PX","N9K-C9372PX","Maximum number of VXLAN tunnel endpoints (VTEP)","256"
-"N9300","Cisco Nexus 9372PX-E","N9K-C9372PX-E","Predictable high performance","Latency of 1 to 2 microseconds with up to 1.28 Tbps of bandwidth enables customers to build a robust switch fabric scaling from as few as 200 10-Gbps server ports to more than 200,000 10-Gbps server ports."
-"N9300","Cisco Nexus 9372PX-E","N9K-C9372PX-E","Increased integrated buffer space","Up to a total of 50 MB of integrated shared buffer space allows better management of speed mismatch between access and uplink ports."
-"N9300","Cisco Nexus 9372PX-E","N9K-C9372PX-E","Designed for availability","Hot-swappable, redundant power supplies and fan trays increase availability."
-"N9300","Cisco Nexus 9372PX-E","N9K-C9372PX-E","Flexible airflow configuration","Port-side intake and port-side exhaust airflow configurations are both supported."
-"N9300","Cisco Nexus 9372PX-E","N9K-C9372PX-E","CPU, SSD, and memory","Dual-core 2.5-GHz x86 CPUs with 64-GB SSD drive and 16 GB of memory provide enhanced network performance."
-"N9300","Cisco Nexus 9372PX-E","N9K-C9372PX-E","Power efficiency","All Cisco Nexus 9000 Series power supplies are 80 Plus Pl
